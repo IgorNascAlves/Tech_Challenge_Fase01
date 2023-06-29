@@ -31,3 +31,25 @@ Você pode encontrar os resultados da análise e as visualizações geradas na p
 ## Contribuição
 
 Contribuições para este projeto são bem-vindas. Se você encontrar problemas ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+
+Tarefas:
+
+## Dados externos
+* Pesquisas sobre faixa de idade de consome vinho
+* 
+
+Ref:
+
+* https://winefun.com.br/consumo-de-vinho-por-habitante-saiba-quais-sao-os-paises-que-lideram-este-ranking/
+* https://vaocubo.com/2021/04/24/wineproduction2020/
+* https://www.statista.com/outlook/cmo/alcoholic-drinks/wine/worldwide#volume
+* https://marketexplorer.wineaustralia.com/export-dashboard
+
+Idéias de pontos:
+
+* Produção Mundial
+* Maiores produtores mundiais
+* Consumo Global
+* Idade Mínima Legal para Comprar ou Beber Vinho ao Redor do Mundo
+* Produção e Consumo no Brasil
