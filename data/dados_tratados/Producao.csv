@@ -1,52 +1,2653 @@
-﻿Tipo;Produto;1970;1971;1972;1973;1974;1975;1976;1977;1978;1979;1980;1981;1982;1983;1984;1985;1986;1987;1988;1989;1990;1991;1992;1993;1994;1995;1996;1997;1998;1999;2000;2001;2002;2003;2004;2005;2006;2007;2008;2009;2010;2011;2012;2013;2014;2015;2016;2017;2018;2019;2020;2021
-VINHO DE MESA;VINHO DE MESA;217208604;154264651;146953297;116710345;193875345;177401209;144565438;195359778;200053669;211252982;130308185;186129728;234754564;120261544;177680331;275338955;157711522;150467184;244791058;181801961;210548199;126768254;163248419;171754995;202073263;214788304;152917771;182816047;150814943;226520776;273025576;228932458;259589740;202545724;313962284;226080432;185100887;275287908;287506811;205418206;195267980;257840749;212777037;196904222;196173123;210308560;86319015;255015187;218375636;144629737;124200414;173899995
-vm_Tinto;Tinto;174224052;121133369;118180926;88589019;146544484;144274134;118360170;154801826;162917363;154736439;101659755;134156175;183349460;87080528;119615028;216732390;118766694;97841160;173747942;136931173;154359897;90320836;118638894;125172218;161479717;167174017;115896909;116458841;102127865;168149414;208242670;175267437;215892333;155513687;254172425;180698666;149552555;228156220;241057928;164143454;157290088;210113358;175875432;163111797;157776363;169811472;75279191;1365957;188270142;121045115;103916391;146075996
-vm_Branco;Branco;748400;1160500;1812367;243900;4138768;1441507;1871473;4954387;5079748;7146395;5363452;12547739;15782499;12191896;19502230;23010666;16872183;27497857;32660045;24603265;33512030;25046588;25446255;31986075;28291853;15472732;24073622;41842945;32140249;42528150;44902276;44322836;35329657;40861639;51719967;39212146;31738390;42118552;42942053;39211278;35408083;46007504;34938249;32066403;37438069;39557250;10727099;217527985;29229970;22032828;19568734;26432799
-vm_Rosado;Rosado;42236152;31970782;26960004;27877426;43192093;31685568;24333795;35603565;32056558;49370148;23284978;39425814;35622605;20989120;38563073;35595899;22072645;25128167;38383071;20267523;22676272;11400830;19163270;14596702;12301693;32141555;12947240;24514261;16546829;15843212;19880630;9342185;8367750;6170398;8069892;6169620;3809942;5013136;3506830;2063474;2569809;1719887;1963356;1726022;958691;939838;312725;36121245;875524;1551794;715289;1391200
-VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);23899346;23586062;21078771;12368410;31644124;39424590;34500590;41264971;36750933;46129710;31740663;49348047;57453581;40616812;48289279;67035393;48559180;47301266;76560765;72772144;73689124;45519167;52612778;53054225;58733741;47126229;45325058;46988414;33898630;45830497;56209739;34159277;31655226;29551457;42902608;45453898;32168977;43176484;47334501;39900568;24805713;47598471;45200730;45782530;38464314;37148982;18070626;44537870;38707220;37615422;32516686;43474998
-vv_Tinto;Tinto;7591557;7265666;6782837;3419625;10047658;14731106;12405154;16131758;15000671;14356453;9296741;16036963;19987588;14340514;15777602;19347979;12282967;10920073;18690518;16140751;17750504;12001895;13449911;12119485;15646861;11924291;12819866;12590647;8716140;14640657;18545613;13587683;13619033;15357576;23062182;25409805;18868108;24786071;27583032;18209043;11401406;24104740;24027589;23156458;17208996;16745896;8774847;21442212;19118254;17389377;15451883;20433249
-vv_Branco;Branco;15562889;15655709;13289304;7930070;18927471;21933695;19874659;20409231;17640081;25727132;19326572;27528276;34423412;24164361;30395959;44679484;34794145;35432544;56441847;54983093;52080420;33307472;38856367;40415898;42419680;34209738;31893892;33792167;24384090;30674840;36955126;20393594;17911689;14058481;19803647;20012363;13249969;17598428;18812571;21366975;13013027;22739426;20647238;21906349;20054804;19561966;8705066;21928400;18297257;18193055;15487915;20867999
-vv_Rosado;Rosado;744900;664687;1006630;1018715;2668995;2759789;2220777;4723982;4110181;6046125;3117350;5782808;3042581;2111937;2115718;3007930;1482068;948649;1428400;1648300;3858200;209800;306500;518842;667200;992200;611300;605600;798400;515000;709000;178000;124504;135400;36779;31730;50900;791985;938898;324550;391280;754305;525903;719723;1200514;841120;590713;1167258;1291709;2032990;1576888;2173750
-SUCO;SUCO;1097771;2296654;3509440;0;0;0;0;0;0;0;0;0;0;0;0;6631667;4313768;5469016;7586870;6923183;10423252;11324462;10797624;12031753;13343721;12893959;9189900;13409014;13904186;15532303;17722779;17987182;20228691;12420745;24078112;27960596;31361096;30136844;35647994;39715098;50125944;69364324;70066732;64879790;76723537;87894468;42210389;77161971;65467906;77805352;69261287;100932264
-su_Suco de uva simples;Suco de uva integral;1097771;2296654;3509440;0;0;0;0;0;0;0;0;0;0;0;0;3544706;2116507;2262240;2018000;2824600;2848560;3609000;4033698;3800800;3884000;4123776;2407900;2884969;3904186;4132303;3546779;5196430;5505889;1372381;6222380;7103175;13946491;10147037;11817941;16034003;26887259;39487800;31908829;33673396;43331223;52233155;31117869;46865626;34367996;50239767;40718523;68038479
-su_Suco concentrado;Suco de uva concentrado;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3086961;2197261;3206776;5568870;4098583;7574692;7715462;6763926;8230953;9459721;8770183;6782000;10524045;10000000;11400000;14176000;12790752;14722802;11048364;17855732;19513244;17414605;19280709;23014646;23006457;23238685;29564324;37624855;31206394;33392314;35661313;11092520;30059271;31099910;26861009;27963865;32131218
-su_Suco de uva adoçado;Suco de uva adoçado;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1344177;0;709098;815407;674638;0;312200;533048;0;0;0;0;177774;0;120320;107289;40450
-su_Suco de uva orgânico;Suco de uva orgânico;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;471610;722117
-su_Suco de uva reconstituído;Suco de uva reconstituído;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;59300;0;584256;0;0
-DERIVADOS;DERIVADOS;14164329;13280518;12314509;28317919;47904934;53633143;22925012;24015856;41607777;35370846;37553414;52530037;37506770;27314628;17331744;17336419;14785645;14905862;19644584;12004574;16191621;20352398;29469940;17573100;16053642;23637100;12754798;24553317;14693351;23422306;25959016;15498842;28122348;24108352;28471858;25541605;27752531;42011603;59622293;56787892;51210756;85748723;100757101;64072127;62907281;107349704;53950314;109116761;95202101;142888747;92533804;169031493
-de_Espumante;Espumante;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;76000;0;0;0;11000;0;0;0;0;0;0;6900;71410;0;0;0;3999;1920;26600;0;88690;0;10125;26361;17200;30275;2700;23750;1500;11280;68500;52176;32399;70091
-de_Espumante moscatel;Espumante moscatel;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;276099;0;147600;204000;514480;320514;589332;1113462;1190500;703393;219100;139775;159781;100000;110100;100000;152375;326200;515800;689139;11950
-de_Base espumante;Base espumante;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;239000;0;78250;220120;335850;0;0;0;0;0;0;0;0;0;0;0;5475049
-de_Base espumante moscatel;Base espumante moscatel;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;98900;212400;362589;111200;474721;442150;1144508;2749540;2798908;1470700;1808044;1607727;1325700;1965629;1320650;1962443;3006705;5549471
-de_Base Champenoise champanha;Base Champenoise champanha;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;92082;74746;369278;359617;234725;605001;740395;1552403;228518;274903;200777;0
-de_Base Charmat champanha;Base Charmat champanha;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;254000;865858;479625;624728;376968;1466259;250280;893364;1746540;1188095;2487939;0
-de_Bebida de uva;Bebida de uva;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1082700;420;7900;0;0;4260;3860;922;3474;0;0;0;0;2000
-de_Polpa de uva;Polpa de uva;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;890562;1350672;1006000;1083202;1188260;1352417;1951606;2480120;2797665;1742152;2484000;2371140;1620430;2507125;2112683;1480269;1803472;1180578
-de_Mosto simples;Mosto simples;7170736;7646774;6051822;21779327;41346735;48185206;18220527;22097156;40052456;34318456;37553414;48762185;37506770;27314628;17331744;10637557;7031320;7821040;16544460;8141100;13307690;17407568;27491540;17218000;10972700;20917600;12111372;19066000;11046570;14359734;16192018;6977231;12875000;13172480;26067525;22429791;25903812;37558010;53683415;53418555;45912040;77285998;93341575;58517506;57582195;100911592;49770993;101010116;88910980;135614344;80355474;153579926
-de_Mosto concentrado;Mosto concentrado;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;354707;295800;400500;384200;732470;1098250;921400;288900;355100;335500;265000;292000;490000;381000;411354;0;0;0;0;0;83116;0;110000;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-de_Mosto de uva com bagaço;Mosto de uva com bagaço;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1037600;0;0;0;0;0;772110;0;645816;3078256;618764
-de_Mosto dessulfitado;Mosto dessulfitado;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1000;5000;1532000
-de_Mistelas;Mistelas;1072100;818400;871200;512900;826300;223000;205500;553200;242150;60300;0;0;0;0;0;0;378400;402600;196000;32000;149000;0;0;0;0;0;0;0;0;0;33000;15000;0;5500;11500;9960;0;1900;2000;3500;0;0;200;2500;1000;0;0;1500;2000;3000;0;2500
-de_Néctar de uva;Néctar de uva;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10000;1140;1000;0;3000;0;32519;46000;18187
-de_Licorosos;Licorosos;282500;270000;254600;176500;135000;24000;4400;525000;479971;34000;0;0;0;0;0;0;0;0;3000;20000;24300;11500;7800;0;0;0;0;0;0;44740;21000;4000;0;34420;0;0;0;0;0;38000;0;0;26775;0;0;0;0;110820;0;0;0;0
-de_Compostos;Compostos;0;45000;1358300;1628000;0;0;0;0;75000;0;0;0;0;0;0;0;0;0;2000;1900;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;7600;0;0;0;0;0;0;0;0;0
-de_Jeropiga;Jeropiga;0;0;0;0;0;0;107500;12500;60000;20000;0;0;0;0;0;234500;173000;122000;61000;42000;0;0;60000;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;69000;0;0;0;0;0;0;0;0;0;2000;3540
-de_Filtrado;Filtrado;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;88000;39000;11000;18000;11000;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-de_Frisante;Frisante;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;831000;1003800;778500;1009000;26069;0;0;0;0;0;0;1390
-de_Vinho leve;Vinho leve;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;249000;264000;192800;144500;0;0;0;0;0;0;0;0;0;0;11000;6000;16500;0;0;0;0;0;0;0;0;0;0;0;0;8000;0;0;0
-de_Vinho licoroso;Vinho licoroso;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;77800;125700;28500;27926;65650;0;15000;0;0;100;36000;56000;24200;110820;124303;99485;48678;30000
-de_Brandy;Brandy;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;13000;0;0;5216;6500;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;120
-de_Destilado;Destilado;830030;0;0;0;0;0;0;0;0;0;0;0;0;0;0;342650;222230;472576;287220;176800;0;0;0;0;0;0;0;0;0;7350;1960;0;0;0;1000;0;0;0;0;0;0;0;0;0;0;0;0;0;680;0;0;0
-de_Bagaceira;Bagaceira;961290;913200;755350;661270;424620;576098;705912;828000;698200;938090;0;0;0;0;0;299500;156100;325600;29000;52000;55000;15000;10000;0;0;0;0;0;0;0;12700;10350;0;26800;66082;32050;24250;48500;8500;6500;0;0;0;0;0;1350;1000;900;2100;10495;0;12060
-de_Licor de bagaceira;Licor de bagaceira;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1507;5800;0
-de_Vinagre;Vinagre;0;21500;8200;0;35300;0;288000;0;0;0;0;0;0;0;0;104707;0;0;0;0;0;0;45000;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5817;0;0;0;53776;25800;5000;25319;25367;76096;10000;7500
-de_Borra líquida;Borra líquida;3847673;3565644;3015037;3559922;5136979;4624839;3393173;0;0;0;0;3767852;0;0;0;5095798;6357648;5142446;1953488;2426804;1282381;1649130;1400200;0;0;0;0;0;0;0;9626928;8216162;8541861;3126172;1044490;526016;57333;2095873;1679775;0;64304;0;0;63111;50954;48833;24975;0;255100;901431;509378;116450
-de_Borra seca;Borra seca;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;149981;0;0;78397;142850;120230;82367;0;70480;25996;167587;16789
-de_Vinho Composto;Vinho Composto;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3000;0;0;0;0;0;0;160000
-de_Pisco;Pisco;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3372;1000;0
-de_Vinho orgânico;Vinho orgânico;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;254000;171147;219100;15000;85000;0;137000;0;0;4745442;2454500;351426;4997317;3265781;8592228;0;0;6705487;7584380;0;0;22933;307410;15000;0;0;5600;0;0;0;0;0;0;0;0;18700;93884
-de_Espumante orgânico;Espumante orgânico;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2412
-de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;500;3000
-de_Vinho acidificado ;Vinho acidificado ;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;65000;0
-de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;543510
-de_Outros derivados;Outros derivados;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;322
+﻿Tipo;Produto;Ano;Quantidade
+VINHO DE MESA;VINHO DE MESA;1970;217208604
+vm_Tinto;Tinto;1970;174224052
+vm_Branco;Branco;1970;748400
+vm_Rosado;Rosado;1970;42236152
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1970;23899346
+vv_Tinto;Tinto;1970;7591557
+vv_Branco;Branco;1970;15562889
+vv_Rosado;Rosado;1970;744900
+SUCO;SUCO;1970;1097771
+su_Suco de uva simples;Suco de uva integral;1970;1097771
+su_Suco concentrado;Suco de uva concentrado;1970;0
+su_Suco de uva adoçado;Suco de uva adoçado;1970;0
+su_Suco de uva orgânico;Suco de uva orgânico;1970;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1970;0
+DERIVADOS;DERIVADOS;1970;14164329
+de_Espumante;Espumante;1970;0
+de_Espumante moscatel;Espumante moscatel;1970;0
+de_Base espumante;Base espumante;1970;0
+de_Base espumante moscatel;Base espumante moscatel;1970;0
+de_Base Champenoise champanha;Base Champenoise champanha;1970;0
+de_Base Charmat champanha;Base Charmat champanha;1970;0
+de_Bebida de uva;Bebida de uva;1970;0
+de_Polpa de uva;Polpa de uva;1970;0
+de_Mosto simples;Mosto simples;1970;7170736
+de_Mosto concentrado;Mosto concentrado;1970;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1970;0
+de_Mosto dessulfitado;Mosto dessulfitado;1970;0
+de_Mistelas;Mistelas;1970;1072100
+de_Néctar de uva;Néctar de uva;1970;0
+de_Licorosos;Licorosos;1970;282500
+de_Compostos;Compostos;1970;0
+de_Jeropiga;Jeropiga;1970;0
+de_Filtrado;Filtrado;1970;0
+de_Frisante;Frisante;1970;0
+de_Vinho leve;Vinho leve;1970;0
+de_Vinho licoroso;Vinho licoroso;1970;0
+de_Brandy;Brandy;1970;0
+de_Destilado;Destilado;1970;830030
+de_Bagaceira;Bagaceira;1970;961290
+de_Licor de bagaceira;Licor de bagaceira;1970;0
+de_Vinagre;Vinagre;1970;0
+de_Borra líquida;Borra líquida;1970;3847673
+de_Borra seca;Borra seca;1970;0
+de_Vinho Composto;Vinho Composto;1970;0
+de_Pisco;Pisco;1970;0
+de_Vinho orgânico;Vinho orgânico;1970;0
+de_Espumante orgânico;Espumante orgânico;1970;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1970;0
+de_Vinho acidificado ;Vinho acidificado ;1970;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1970;0
+de_Outros derivados;Outros derivados;1970;0
+VINHO DE MESA;VINHO DE MESA;1971;154264651
+vm_Tinto;Tinto;1971;121133369
+vm_Branco;Branco;1971;1160500
+vm_Rosado;Rosado;1971;31970782
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1971;23586062
+vv_Tinto;Tinto;1971;7265666
+vv_Branco;Branco;1971;15655709
+vv_Rosado;Rosado;1971;664687
+SUCO;SUCO;1971;2296654
+su_Suco de uva simples;Suco de uva integral;1971;2296654
+su_Suco concentrado;Suco de uva concentrado;1971;0
+su_Suco de uva adoçado;Suco de uva adoçado;1971;0
+su_Suco de uva orgânico;Suco de uva orgânico;1971;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1971;0
+DERIVADOS;DERIVADOS;1971;13280518
+de_Espumante;Espumante;1971;0
+de_Espumante moscatel;Espumante moscatel;1971;0
+de_Base espumante;Base espumante;1971;0
+de_Base espumante moscatel;Base espumante moscatel;1971;0
+de_Base Champenoise champanha;Base Champenoise champanha;1971;0
+de_Base Charmat champanha;Base Charmat champanha;1971;0
+de_Bebida de uva;Bebida de uva;1971;0
+de_Polpa de uva;Polpa de uva;1971;0
+de_Mosto simples;Mosto simples;1971;7646774
+de_Mosto concentrado;Mosto concentrado;1971;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1971;0
+de_Mosto dessulfitado;Mosto dessulfitado;1971;0
+de_Mistelas;Mistelas;1971;818400
+de_Néctar de uva;Néctar de uva;1971;0
+de_Licorosos;Licorosos;1971;270000
+de_Compostos;Compostos;1971;45000
+de_Jeropiga;Jeropiga;1971;0
+de_Filtrado;Filtrado;1971;0
+de_Frisante;Frisante;1971;0
+de_Vinho leve;Vinho leve;1971;0
+de_Vinho licoroso;Vinho licoroso;1971;0
+de_Brandy;Brandy;1971;0
+de_Destilado;Destilado;1971;0
+de_Bagaceira;Bagaceira;1971;913200
+de_Licor de bagaceira;Licor de bagaceira;1971;0
+de_Vinagre;Vinagre;1971;21500
+de_Borra líquida;Borra líquida;1971;3565644
+de_Borra seca;Borra seca;1971;0
+de_Vinho Composto;Vinho Composto;1971;0
+de_Pisco;Pisco;1971;0
+de_Vinho orgânico;Vinho orgânico;1971;0
+de_Espumante orgânico;Espumante orgânico;1971;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1971;0
+de_Vinho acidificado ;Vinho acidificado ;1971;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1971;0
+de_Outros derivados;Outros derivados;1971;0
+VINHO DE MESA;VINHO DE MESA;1972;146953297
+vm_Tinto;Tinto;1972;118180926
+vm_Branco;Branco;1972;1812367
+vm_Rosado;Rosado;1972;26960004
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1972;21078771
+vv_Tinto;Tinto;1972;6782837
+vv_Branco;Branco;1972;13289304
+vv_Rosado;Rosado;1972;1006630
+SUCO;SUCO;1972;3509440
+su_Suco de uva simples;Suco de uva integral;1972;3509440
+su_Suco concentrado;Suco de uva concentrado;1972;0
+su_Suco de uva adoçado;Suco de uva adoçado;1972;0
+su_Suco de uva orgânico;Suco de uva orgânico;1972;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1972;0
+DERIVADOS;DERIVADOS;1972;12314509
+de_Espumante;Espumante;1972;0
+de_Espumante moscatel;Espumante moscatel;1972;0
+de_Base espumante;Base espumante;1972;0
+de_Base espumante moscatel;Base espumante moscatel;1972;0
+de_Base Champenoise champanha;Base Champenoise champanha;1972;0
+de_Base Charmat champanha;Base Charmat champanha;1972;0
+de_Bebida de uva;Bebida de uva;1972;0
+de_Polpa de uva;Polpa de uva;1972;0
+de_Mosto simples;Mosto simples;1972;6051822
+de_Mosto concentrado;Mosto concentrado;1972;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1972;0
+de_Mosto dessulfitado;Mosto dessulfitado;1972;0
+de_Mistelas;Mistelas;1972;871200
+de_Néctar de uva;Néctar de uva;1972;0
+de_Licorosos;Licorosos;1972;254600
+de_Compostos;Compostos;1972;1358300
+de_Jeropiga;Jeropiga;1972;0
+de_Filtrado;Filtrado;1972;0
+de_Frisante;Frisante;1972;0
+de_Vinho leve;Vinho leve;1972;0
+de_Vinho licoroso;Vinho licoroso;1972;0
+de_Brandy;Brandy;1972;0
+de_Destilado;Destilado;1972;0
+de_Bagaceira;Bagaceira;1972;755350
+de_Licor de bagaceira;Licor de bagaceira;1972;0
+de_Vinagre;Vinagre;1972;8200
+de_Borra líquida;Borra líquida;1972;3015037
+de_Borra seca;Borra seca;1972;0
+de_Vinho Composto;Vinho Composto;1972;0
+de_Pisco;Pisco;1972;0
+de_Vinho orgânico;Vinho orgânico;1972;0
+de_Espumante orgânico;Espumante orgânico;1972;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1972;0
+de_Vinho acidificado ;Vinho acidificado ;1972;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1972;0
+de_Outros derivados;Outros derivados;1972;0
+VINHO DE MESA;VINHO DE MESA;1973;116710345
+vm_Tinto;Tinto;1973;88589019
+vm_Branco;Branco;1973;243900
+vm_Rosado;Rosado;1973;27877426
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1973;12368410
+vv_Tinto;Tinto;1973;3419625
+vv_Branco;Branco;1973;7930070
+vv_Rosado;Rosado;1973;1018715
+SUCO;SUCO;1973;0
+su_Suco de uva simples;Suco de uva integral;1973;0
+su_Suco concentrado;Suco de uva concentrado;1973;0
+su_Suco de uva adoçado;Suco de uva adoçado;1973;0
+su_Suco de uva orgânico;Suco de uva orgânico;1973;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1973;0
+DERIVADOS;DERIVADOS;1973;28317919
+de_Espumante;Espumante;1973;0
+de_Espumante moscatel;Espumante moscatel;1973;0
+de_Base espumante;Base espumante;1973;0
+de_Base espumante moscatel;Base espumante moscatel;1973;0
+de_Base Champenoise champanha;Base Champenoise champanha;1973;0
+de_Base Charmat champanha;Base Charmat champanha;1973;0
+de_Bebida de uva;Bebida de uva;1973;0
+de_Polpa de uva;Polpa de uva;1973;0
+de_Mosto simples;Mosto simples;1973;21779327
+de_Mosto concentrado;Mosto concentrado;1973;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1973;0
+de_Mosto dessulfitado;Mosto dessulfitado;1973;0
+de_Mistelas;Mistelas;1973;512900
+de_Néctar de uva;Néctar de uva;1973;0
+de_Licorosos;Licorosos;1973;176500
+de_Compostos;Compostos;1973;1628000
+de_Jeropiga;Jeropiga;1973;0
+de_Filtrado;Filtrado;1973;0
+de_Frisante;Frisante;1973;0
+de_Vinho leve;Vinho leve;1973;0
+de_Vinho licoroso;Vinho licoroso;1973;0
+de_Brandy;Brandy;1973;0
+de_Destilado;Destilado;1973;0
+de_Bagaceira;Bagaceira;1973;661270
+de_Licor de bagaceira;Licor de bagaceira;1973;0
+de_Vinagre;Vinagre;1973;0
+de_Borra líquida;Borra líquida;1973;3559922
+de_Borra seca;Borra seca;1973;0
+de_Vinho Composto;Vinho Composto;1973;0
+de_Pisco;Pisco;1973;0
+de_Vinho orgânico;Vinho orgânico;1973;0
+de_Espumante orgânico;Espumante orgânico;1973;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1973;0
+de_Vinho acidificado ;Vinho acidificado ;1973;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1973;0
+de_Outros derivados;Outros derivados;1973;0
+VINHO DE MESA;VINHO DE MESA;1974;193875345
+vm_Tinto;Tinto;1974;146544484
+vm_Branco;Branco;1974;4138768
+vm_Rosado;Rosado;1974;43192093
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1974;31644124
+vv_Tinto;Tinto;1974;10047658
+vv_Branco;Branco;1974;18927471
+vv_Rosado;Rosado;1974;2668995
+SUCO;SUCO;1974;0
+su_Suco de uva simples;Suco de uva integral;1974;0
+su_Suco concentrado;Suco de uva concentrado;1974;0
+su_Suco de uva adoçado;Suco de uva adoçado;1974;0
+su_Suco de uva orgânico;Suco de uva orgânico;1974;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1974;0
+DERIVADOS;DERIVADOS;1974;47904934
+de_Espumante;Espumante;1974;0
+de_Espumante moscatel;Espumante moscatel;1974;0
+de_Base espumante;Base espumante;1974;0
+de_Base espumante moscatel;Base espumante moscatel;1974;0
+de_Base Champenoise champanha;Base Champenoise champanha;1974;0
+de_Base Charmat champanha;Base Charmat champanha;1974;0
+de_Bebida de uva;Bebida de uva;1974;0
+de_Polpa de uva;Polpa de uva;1974;0
+de_Mosto simples;Mosto simples;1974;41346735
+de_Mosto concentrado;Mosto concentrado;1974;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1974;0
+de_Mosto dessulfitado;Mosto dessulfitado;1974;0
+de_Mistelas;Mistelas;1974;826300
+de_Néctar de uva;Néctar de uva;1974;0
+de_Licorosos;Licorosos;1974;135000
+de_Compostos;Compostos;1974;0
+de_Jeropiga;Jeropiga;1974;0
+de_Filtrado;Filtrado;1974;0
+de_Frisante;Frisante;1974;0
+de_Vinho leve;Vinho leve;1974;0
+de_Vinho licoroso;Vinho licoroso;1974;0
+de_Brandy;Brandy;1974;0
+de_Destilado;Destilado;1974;0
+de_Bagaceira;Bagaceira;1974;424620
+de_Licor de bagaceira;Licor de bagaceira;1974;0
+de_Vinagre;Vinagre;1974;35300
+de_Borra líquida;Borra líquida;1974;5136979
+de_Borra seca;Borra seca;1974;0
+de_Vinho Composto;Vinho Composto;1974;0
+de_Pisco;Pisco;1974;0
+de_Vinho orgânico;Vinho orgânico;1974;0
+de_Espumante orgânico;Espumante orgânico;1974;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1974;0
+de_Vinho acidificado ;Vinho acidificado ;1974;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1974;0
+de_Outros derivados;Outros derivados;1974;0
+VINHO DE MESA;VINHO DE MESA;1975;177401209
+vm_Tinto;Tinto;1975;144274134
+vm_Branco;Branco;1975;1441507
+vm_Rosado;Rosado;1975;31685568
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1975;39424590
+vv_Tinto;Tinto;1975;14731106
+vv_Branco;Branco;1975;21933695
+vv_Rosado;Rosado;1975;2759789
+SUCO;SUCO;1975;0
+su_Suco de uva simples;Suco de uva integral;1975;0
+su_Suco concentrado;Suco de uva concentrado;1975;0
+su_Suco de uva adoçado;Suco de uva adoçado;1975;0
+su_Suco de uva orgânico;Suco de uva orgânico;1975;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1975;0
+DERIVADOS;DERIVADOS;1975;53633143
+de_Espumante;Espumante;1975;0
+de_Espumante moscatel;Espumante moscatel;1975;0
+de_Base espumante;Base espumante;1975;0
+de_Base espumante moscatel;Base espumante moscatel;1975;0
+de_Base Champenoise champanha;Base Champenoise champanha;1975;0
+de_Base Charmat champanha;Base Charmat champanha;1975;0
+de_Bebida de uva;Bebida de uva;1975;0
+de_Polpa de uva;Polpa de uva;1975;0
+de_Mosto simples;Mosto simples;1975;48185206
+de_Mosto concentrado;Mosto concentrado;1975;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1975;0
+de_Mosto dessulfitado;Mosto dessulfitado;1975;0
+de_Mistelas;Mistelas;1975;223000
+de_Néctar de uva;Néctar de uva;1975;0
+de_Licorosos;Licorosos;1975;24000
+de_Compostos;Compostos;1975;0
+de_Jeropiga;Jeropiga;1975;0
+de_Filtrado;Filtrado;1975;0
+de_Frisante;Frisante;1975;0
+de_Vinho leve;Vinho leve;1975;0
+de_Vinho licoroso;Vinho licoroso;1975;0
+de_Brandy;Brandy;1975;0
+de_Destilado;Destilado;1975;0
+de_Bagaceira;Bagaceira;1975;576098
+de_Licor de bagaceira;Licor de bagaceira;1975;0
+de_Vinagre;Vinagre;1975;0
+de_Borra líquida;Borra líquida;1975;4624839
+de_Borra seca;Borra seca;1975;0
+de_Vinho Composto;Vinho Composto;1975;0
+de_Pisco;Pisco;1975;0
+de_Vinho orgânico;Vinho orgânico;1975;0
+de_Espumante orgânico;Espumante orgânico;1975;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1975;0
+de_Vinho acidificado ;Vinho acidificado ;1975;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1975;0
+de_Outros derivados;Outros derivados;1975;0
+VINHO DE MESA;VINHO DE MESA;1976;144565438
+vm_Tinto;Tinto;1976;118360170
+vm_Branco;Branco;1976;1871473
+vm_Rosado;Rosado;1976;24333795
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1976;34500590
+vv_Tinto;Tinto;1976;12405154
+vv_Branco;Branco;1976;19874659
+vv_Rosado;Rosado;1976;2220777
+SUCO;SUCO;1976;0
+su_Suco de uva simples;Suco de uva integral;1976;0
+su_Suco concentrado;Suco de uva concentrado;1976;0
+su_Suco de uva adoçado;Suco de uva adoçado;1976;0
+su_Suco de uva orgânico;Suco de uva orgânico;1976;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1976;0
+DERIVADOS;DERIVADOS;1976;22925012
+de_Espumante;Espumante;1976;0
+de_Espumante moscatel;Espumante moscatel;1976;0
+de_Base espumante;Base espumante;1976;0
+de_Base espumante moscatel;Base espumante moscatel;1976;0
+de_Base Champenoise champanha;Base Champenoise champanha;1976;0
+de_Base Charmat champanha;Base Charmat champanha;1976;0
+de_Bebida de uva;Bebida de uva;1976;0
+de_Polpa de uva;Polpa de uva;1976;0
+de_Mosto simples;Mosto simples;1976;18220527
+de_Mosto concentrado;Mosto concentrado;1976;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1976;0
+de_Mosto dessulfitado;Mosto dessulfitado;1976;0
+de_Mistelas;Mistelas;1976;205500
+de_Néctar de uva;Néctar de uva;1976;0
+de_Licorosos;Licorosos;1976;4400
+de_Compostos;Compostos;1976;0
+de_Jeropiga;Jeropiga;1976;107500
+de_Filtrado;Filtrado;1976;0
+de_Frisante;Frisante;1976;0
+de_Vinho leve;Vinho leve;1976;0
+de_Vinho licoroso;Vinho licoroso;1976;0
+de_Brandy;Brandy;1976;0
+de_Destilado;Destilado;1976;0
+de_Bagaceira;Bagaceira;1976;705912
+de_Licor de bagaceira;Licor de bagaceira;1976;0
+de_Vinagre;Vinagre;1976;288000
+de_Borra líquida;Borra líquida;1976;3393173
+de_Borra seca;Borra seca;1976;0
+de_Vinho Composto;Vinho Composto;1976;0
+de_Pisco;Pisco;1976;0
+de_Vinho orgânico;Vinho orgânico;1976;0
+de_Espumante orgânico;Espumante orgânico;1976;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1976;0
+de_Vinho acidificado ;Vinho acidificado ;1976;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1976;0
+de_Outros derivados;Outros derivados;1976;0
+VINHO DE MESA;VINHO DE MESA;1977;195359778
+vm_Tinto;Tinto;1977;154801826
+vm_Branco;Branco;1977;4954387
+vm_Rosado;Rosado;1977;35603565
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1977;41264971
+vv_Tinto;Tinto;1977;16131758
+vv_Branco;Branco;1977;20409231
+vv_Rosado;Rosado;1977;4723982
+SUCO;SUCO;1977;0
+su_Suco de uva simples;Suco de uva integral;1977;0
+su_Suco concentrado;Suco de uva concentrado;1977;0
+su_Suco de uva adoçado;Suco de uva adoçado;1977;0
+su_Suco de uva orgânico;Suco de uva orgânico;1977;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1977;0
+DERIVADOS;DERIVADOS;1977;24015856
+de_Espumante;Espumante;1977;0
+de_Espumante moscatel;Espumante moscatel;1977;0
+de_Base espumante;Base espumante;1977;0
+de_Base espumante moscatel;Base espumante moscatel;1977;0
+de_Base Champenoise champanha;Base Champenoise champanha;1977;0
+de_Base Charmat champanha;Base Charmat champanha;1977;0
+de_Bebida de uva;Bebida de uva;1977;0
+de_Polpa de uva;Polpa de uva;1977;0
+de_Mosto simples;Mosto simples;1977;22097156
+de_Mosto concentrado;Mosto concentrado;1977;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1977;0
+de_Mosto dessulfitado;Mosto dessulfitado;1977;0
+de_Mistelas;Mistelas;1977;553200
+de_Néctar de uva;Néctar de uva;1977;0
+de_Licorosos;Licorosos;1977;525000
+de_Compostos;Compostos;1977;0
+de_Jeropiga;Jeropiga;1977;12500
+de_Filtrado;Filtrado;1977;0
+de_Frisante;Frisante;1977;0
+de_Vinho leve;Vinho leve;1977;0
+de_Vinho licoroso;Vinho licoroso;1977;0
+de_Brandy;Brandy;1977;0
+de_Destilado;Destilado;1977;0
+de_Bagaceira;Bagaceira;1977;828000
+de_Licor de bagaceira;Licor de bagaceira;1977;0
+de_Vinagre;Vinagre;1977;0
+de_Borra líquida;Borra líquida;1977;0
+de_Borra seca;Borra seca;1977;0
+de_Vinho Composto;Vinho Composto;1977;0
+de_Pisco;Pisco;1977;0
+de_Vinho orgânico;Vinho orgânico;1977;0
+de_Espumante orgânico;Espumante orgânico;1977;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1977;0
+de_Vinho acidificado ;Vinho acidificado ;1977;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1977;0
+de_Outros derivados;Outros derivados;1977;0
+VINHO DE MESA;VINHO DE MESA;1978;200053669
+vm_Tinto;Tinto;1978;162917363
+vm_Branco;Branco;1978;5079748
+vm_Rosado;Rosado;1978;32056558
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1978;36750933
+vv_Tinto;Tinto;1978;15000671
+vv_Branco;Branco;1978;17640081
+vv_Rosado;Rosado;1978;4110181
+SUCO;SUCO;1978;0
+su_Suco de uva simples;Suco de uva integral;1978;0
+su_Suco concentrado;Suco de uva concentrado;1978;0
+su_Suco de uva adoçado;Suco de uva adoçado;1978;0
+su_Suco de uva orgânico;Suco de uva orgânico;1978;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1978;0
+DERIVADOS;DERIVADOS;1978;41607777
+de_Espumante;Espumante;1978;0
+de_Espumante moscatel;Espumante moscatel;1978;0
+de_Base espumante;Base espumante;1978;0
+de_Base espumante moscatel;Base espumante moscatel;1978;0
+de_Base Champenoise champanha;Base Champenoise champanha;1978;0
+de_Base Charmat champanha;Base Charmat champanha;1978;0
+de_Bebida de uva;Bebida de uva;1978;0
+de_Polpa de uva;Polpa de uva;1978;0
+de_Mosto simples;Mosto simples;1978;40052456
+de_Mosto concentrado;Mosto concentrado;1978;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1978;0
+de_Mosto dessulfitado;Mosto dessulfitado;1978;0
+de_Mistelas;Mistelas;1978;242150
+de_Néctar de uva;Néctar de uva;1978;0
+de_Licorosos;Licorosos;1978;479971
+de_Compostos;Compostos;1978;75000
+de_Jeropiga;Jeropiga;1978;60000
+de_Filtrado;Filtrado;1978;0
+de_Frisante;Frisante;1978;0
+de_Vinho leve;Vinho leve;1978;0
+de_Vinho licoroso;Vinho licoroso;1978;0
+de_Brandy;Brandy;1978;0
+de_Destilado;Destilado;1978;0
+de_Bagaceira;Bagaceira;1978;698200
+de_Licor de bagaceira;Licor de bagaceira;1978;0
+de_Vinagre;Vinagre;1978;0
+de_Borra líquida;Borra líquida;1978;0
+de_Borra seca;Borra seca;1978;0
+de_Vinho Composto;Vinho Composto;1978;0
+de_Pisco;Pisco;1978;0
+de_Vinho orgânico;Vinho orgânico;1978;0
+de_Espumante orgânico;Espumante orgânico;1978;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1978;0
+de_Vinho acidificado ;Vinho acidificado ;1978;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1978;0
+de_Outros derivados;Outros derivados;1978;0
+VINHO DE MESA;VINHO DE MESA;1979;211252982
+vm_Tinto;Tinto;1979;154736439
+vm_Branco;Branco;1979;7146395
+vm_Rosado;Rosado;1979;49370148
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1979;46129710
+vv_Tinto;Tinto;1979;14356453
+vv_Branco;Branco;1979;25727132
+vv_Rosado;Rosado;1979;6046125
+SUCO;SUCO;1979;0
+su_Suco de uva simples;Suco de uva integral;1979;0
+su_Suco concentrado;Suco de uva concentrado;1979;0
+su_Suco de uva adoçado;Suco de uva adoçado;1979;0
+su_Suco de uva orgânico;Suco de uva orgânico;1979;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1979;0
+DERIVADOS;DERIVADOS;1979;35370846
+de_Espumante;Espumante;1979;0
+de_Espumante moscatel;Espumante moscatel;1979;0
+de_Base espumante;Base espumante;1979;0
+de_Base espumante moscatel;Base espumante moscatel;1979;0
+de_Base Champenoise champanha;Base Champenoise champanha;1979;0
+de_Base Charmat champanha;Base Charmat champanha;1979;0
+de_Bebida de uva;Bebida de uva;1979;0
+de_Polpa de uva;Polpa de uva;1979;0
+de_Mosto simples;Mosto simples;1979;34318456
+de_Mosto concentrado;Mosto concentrado;1979;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1979;0
+de_Mosto dessulfitado;Mosto dessulfitado;1979;0
+de_Mistelas;Mistelas;1979;60300
+de_Néctar de uva;Néctar de uva;1979;0
+de_Licorosos;Licorosos;1979;34000
+de_Compostos;Compostos;1979;0
+de_Jeropiga;Jeropiga;1979;20000
+de_Filtrado;Filtrado;1979;0
+de_Frisante;Frisante;1979;0
+de_Vinho leve;Vinho leve;1979;0
+de_Vinho licoroso;Vinho licoroso;1979;0
+de_Brandy;Brandy;1979;0
+de_Destilado;Destilado;1979;0
+de_Bagaceira;Bagaceira;1979;938090
+de_Licor de bagaceira;Licor de bagaceira;1979;0
+de_Vinagre;Vinagre;1979;0
+de_Borra líquida;Borra líquida;1979;0
+de_Borra seca;Borra seca;1979;0
+de_Vinho Composto;Vinho Composto;1979;0
+de_Pisco;Pisco;1979;0
+de_Vinho orgânico;Vinho orgânico;1979;0
+de_Espumante orgânico;Espumante orgânico;1979;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1979;0
+de_Vinho acidificado ;Vinho acidificado ;1979;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1979;0
+de_Outros derivados;Outros derivados;1979;0
+VINHO DE MESA;VINHO DE MESA;1980;130308185
+vm_Tinto;Tinto;1980;101659755
+vm_Branco;Branco;1980;5363452
+vm_Rosado;Rosado;1980;23284978
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1980;31740663
+vv_Tinto;Tinto;1980;9296741
+vv_Branco;Branco;1980;19326572
+vv_Rosado;Rosado;1980;3117350
+SUCO;SUCO;1980;0
+su_Suco de uva simples;Suco de uva integral;1980;0
+su_Suco concentrado;Suco de uva concentrado;1980;0
+su_Suco de uva adoçado;Suco de uva adoçado;1980;0
+su_Suco de uva orgânico;Suco de uva orgânico;1980;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1980;0
+DERIVADOS;DERIVADOS;1980;37553414
+de_Espumante;Espumante;1980;0
+de_Espumante moscatel;Espumante moscatel;1980;0
+de_Base espumante;Base espumante;1980;0
+de_Base espumante moscatel;Base espumante moscatel;1980;0
+de_Base Champenoise champanha;Base Champenoise champanha;1980;0
+de_Base Charmat champanha;Base Charmat champanha;1980;0
+de_Bebida de uva;Bebida de uva;1980;0
+de_Polpa de uva;Polpa de uva;1980;0
+de_Mosto simples;Mosto simples;1980;37553414
+de_Mosto concentrado;Mosto concentrado;1980;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1980;0
+de_Mosto dessulfitado;Mosto dessulfitado;1980;0
+de_Mistelas;Mistelas;1980;0
+de_Néctar de uva;Néctar de uva;1980;0
+de_Licorosos;Licorosos;1980;0
+de_Compostos;Compostos;1980;0
+de_Jeropiga;Jeropiga;1980;0
+de_Filtrado;Filtrado;1980;0
+de_Frisante;Frisante;1980;0
+de_Vinho leve;Vinho leve;1980;0
+de_Vinho licoroso;Vinho licoroso;1980;0
+de_Brandy;Brandy;1980;0
+de_Destilado;Destilado;1980;0
+de_Bagaceira;Bagaceira;1980;0
+de_Licor de bagaceira;Licor de bagaceira;1980;0
+de_Vinagre;Vinagre;1980;0
+de_Borra líquida;Borra líquida;1980;0
+de_Borra seca;Borra seca;1980;0
+de_Vinho Composto;Vinho Composto;1980;0
+de_Pisco;Pisco;1980;0
+de_Vinho orgânico;Vinho orgânico;1980;0
+de_Espumante orgânico;Espumante orgânico;1980;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1980;0
+de_Vinho acidificado ;Vinho acidificado ;1980;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1980;0
+de_Outros derivados;Outros derivados;1980;0
+VINHO DE MESA;VINHO DE MESA;1981;186129728
+vm_Tinto;Tinto;1981;134156175
+vm_Branco;Branco;1981;12547739
+vm_Rosado;Rosado;1981;39425814
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1981;49348047
+vv_Tinto;Tinto;1981;16036963
+vv_Branco;Branco;1981;27528276
+vv_Rosado;Rosado;1981;5782808
+SUCO;SUCO;1981;0
+su_Suco de uva simples;Suco de uva integral;1981;0
+su_Suco concentrado;Suco de uva concentrado;1981;0
+su_Suco de uva adoçado;Suco de uva adoçado;1981;0
+su_Suco de uva orgânico;Suco de uva orgânico;1981;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1981;0
+DERIVADOS;DERIVADOS;1981;52530037
+de_Espumante;Espumante;1981;0
+de_Espumante moscatel;Espumante moscatel;1981;0
+de_Base espumante;Base espumante;1981;0
+de_Base espumante moscatel;Base espumante moscatel;1981;0
+de_Base Champenoise champanha;Base Champenoise champanha;1981;0
+de_Base Charmat champanha;Base Charmat champanha;1981;0
+de_Bebida de uva;Bebida de uva;1981;0
+de_Polpa de uva;Polpa de uva;1981;0
+de_Mosto simples;Mosto simples;1981;48762185
+de_Mosto concentrado;Mosto concentrado;1981;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1981;0
+de_Mosto dessulfitado;Mosto dessulfitado;1981;0
+de_Mistelas;Mistelas;1981;0
+de_Néctar de uva;Néctar de uva;1981;0
+de_Licorosos;Licorosos;1981;0
+de_Compostos;Compostos;1981;0
+de_Jeropiga;Jeropiga;1981;0
+de_Filtrado;Filtrado;1981;0
+de_Frisante;Frisante;1981;0
+de_Vinho leve;Vinho leve;1981;0
+de_Vinho licoroso;Vinho licoroso;1981;0
+de_Brandy;Brandy;1981;0
+de_Destilado;Destilado;1981;0
+de_Bagaceira;Bagaceira;1981;0
+de_Licor de bagaceira;Licor de bagaceira;1981;0
+de_Vinagre;Vinagre;1981;0
+de_Borra líquida;Borra líquida;1981;3767852
+de_Borra seca;Borra seca;1981;0
+de_Vinho Composto;Vinho Composto;1981;0
+de_Pisco;Pisco;1981;0
+de_Vinho orgânico;Vinho orgânico;1981;0
+de_Espumante orgânico;Espumante orgânico;1981;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1981;0
+de_Vinho acidificado ;Vinho acidificado ;1981;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1981;0
+de_Outros derivados;Outros derivados;1981;0
+VINHO DE MESA;VINHO DE MESA;1982;234754564
+vm_Tinto;Tinto;1982;183349460
+vm_Branco;Branco;1982;15782499
+vm_Rosado;Rosado;1982;35622605
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1982;57453581
+vv_Tinto;Tinto;1982;19987588
+vv_Branco;Branco;1982;34423412
+vv_Rosado;Rosado;1982;3042581
+SUCO;SUCO;1982;0
+su_Suco de uva simples;Suco de uva integral;1982;0
+su_Suco concentrado;Suco de uva concentrado;1982;0
+su_Suco de uva adoçado;Suco de uva adoçado;1982;0
+su_Suco de uva orgânico;Suco de uva orgânico;1982;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1982;0
+DERIVADOS;DERIVADOS;1982;37506770
+de_Espumante;Espumante;1982;0
+de_Espumante moscatel;Espumante moscatel;1982;0
+de_Base espumante;Base espumante;1982;0
+de_Base espumante moscatel;Base espumante moscatel;1982;0
+de_Base Champenoise champanha;Base Champenoise champanha;1982;0
+de_Base Charmat champanha;Base Charmat champanha;1982;0
+de_Bebida de uva;Bebida de uva;1982;0
+de_Polpa de uva;Polpa de uva;1982;0
+de_Mosto simples;Mosto simples;1982;37506770
+de_Mosto concentrado;Mosto concentrado;1982;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1982;0
+de_Mosto dessulfitado;Mosto dessulfitado;1982;0
+de_Mistelas;Mistelas;1982;0
+de_Néctar de uva;Néctar de uva;1982;0
+de_Licorosos;Licorosos;1982;0
+de_Compostos;Compostos;1982;0
+de_Jeropiga;Jeropiga;1982;0
+de_Filtrado;Filtrado;1982;0
+de_Frisante;Frisante;1982;0
+de_Vinho leve;Vinho leve;1982;0
+de_Vinho licoroso;Vinho licoroso;1982;0
+de_Brandy;Brandy;1982;0
+de_Destilado;Destilado;1982;0
+de_Bagaceira;Bagaceira;1982;0
+de_Licor de bagaceira;Licor de bagaceira;1982;0
+de_Vinagre;Vinagre;1982;0
+de_Borra líquida;Borra líquida;1982;0
+de_Borra seca;Borra seca;1982;0
+de_Vinho Composto;Vinho Composto;1982;0
+de_Pisco;Pisco;1982;0
+de_Vinho orgânico;Vinho orgânico;1982;0
+de_Espumante orgânico;Espumante orgânico;1982;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1982;0
+de_Vinho acidificado ;Vinho acidificado ;1982;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1982;0
+de_Outros derivados;Outros derivados;1982;0
+VINHO DE MESA;VINHO DE MESA;1983;120261544
+vm_Tinto;Tinto;1983;87080528
+vm_Branco;Branco;1983;12191896
+vm_Rosado;Rosado;1983;20989120
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1983;40616812
+vv_Tinto;Tinto;1983;14340514
+vv_Branco;Branco;1983;24164361
+vv_Rosado;Rosado;1983;2111937
+SUCO;SUCO;1983;0
+su_Suco de uva simples;Suco de uva integral;1983;0
+su_Suco concentrado;Suco de uva concentrado;1983;0
+su_Suco de uva adoçado;Suco de uva adoçado;1983;0
+su_Suco de uva orgânico;Suco de uva orgânico;1983;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1983;0
+DERIVADOS;DERIVADOS;1983;27314628
+de_Espumante;Espumante;1983;0
+de_Espumante moscatel;Espumante moscatel;1983;0
+de_Base espumante;Base espumante;1983;0
+de_Base espumante moscatel;Base espumante moscatel;1983;0
+de_Base Champenoise champanha;Base Champenoise champanha;1983;0
+de_Base Charmat champanha;Base Charmat champanha;1983;0
+de_Bebida de uva;Bebida de uva;1983;0
+de_Polpa de uva;Polpa de uva;1983;0
+de_Mosto simples;Mosto simples;1983;27314628
+de_Mosto concentrado;Mosto concentrado;1983;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1983;0
+de_Mosto dessulfitado;Mosto dessulfitado;1983;0
+de_Mistelas;Mistelas;1983;0
+de_Néctar de uva;Néctar de uva;1983;0
+de_Licorosos;Licorosos;1983;0
+de_Compostos;Compostos;1983;0
+de_Jeropiga;Jeropiga;1983;0
+de_Filtrado;Filtrado;1983;0
+de_Frisante;Frisante;1983;0
+de_Vinho leve;Vinho leve;1983;0
+de_Vinho licoroso;Vinho licoroso;1983;0
+de_Brandy;Brandy;1983;0
+de_Destilado;Destilado;1983;0
+de_Bagaceira;Bagaceira;1983;0
+de_Licor de bagaceira;Licor de bagaceira;1983;0
+de_Vinagre;Vinagre;1983;0
+de_Borra líquida;Borra líquida;1983;0
+de_Borra seca;Borra seca;1983;0
+de_Vinho Composto;Vinho Composto;1983;0
+de_Pisco;Pisco;1983;0
+de_Vinho orgânico;Vinho orgânico;1983;0
+de_Espumante orgânico;Espumante orgânico;1983;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1983;0
+de_Vinho acidificado ;Vinho acidificado ;1983;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1983;0
+de_Outros derivados;Outros derivados;1983;0
+VINHO DE MESA;VINHO DE MESA;1984;177680331
+vm_Tinto;Tinto;1984;119615028
+vm_Branco;Branco;1984;19502230
+vm_Rosado;Rosado;1984;38563073
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1984;48289279
+vv_Tinto;Tinto;1984;15777602
+vv_Branco;Branco;1984;30395959
+vv_Rosado;Rosado;1984;2115718
+SUCO;SUCO;1984;0
+su_Suco de uva simples;Suco de uva integral;1984;0
+su_Suco concentrado;Suco de uva concentrado;1984;0
+su_Suco de uva adoçado;Suco de uva adoçado;1984;0
+su_Suco de uva orgânico;Suco de uva orgânico;1984;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1984;0
+DERIVADOS;DERIVADOS;1984;17331744
+de_Espumante;Espumante;1984;0
+de_Espumante moscatel;Espumante moscatel;1984;0
+de_Base espumante;Base espumante;1984;0
+de_Base espumante moscatel;Base espumante moscatel;1984;0
+de_Base Champenoise champanha;Base Champenoise champanha;1984;0
+de_Base Charmat champanha;Base Charmat champanha;1984;0
+de_Bebida de uva;Bebida de uva;1984;0
+de_Polpa de uva;Polpa de uva;1984;0
+de_Mosto simples;Mosto simples;1984;17331744
+de_Mosto concentrado;Mosto concentrado;1984;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1984;0
+de_Mosto dessulfitado;Mosto dessulfitado;1984;0
+de_Mistelas;Mistelas;1984;0
+de_Néctar de uva;Néctar de uva;1984;0
+de_Licorosos;Licorosos;1984;0
+de_Compostos;Compostos;1984;0
+de_Jeropiga;Jeropiga;1984;0
+de_Filtrado;Filtrado;1984;0
+de_Frisante;Frisante;1984;0
+de_Vinho leve;Vinho leve;1984;0
+de_Vinho licoroso;Vinho licoroso;1984;0
+de_Brandy;Brandy;1984;0
+de_Destilado;Destilado;1984;0
+de_Bagaceira;Bagaceira;1984;0
+de_Licor de bagaceira;Licor de bagaceira;1984;0
+de_Vinagre;Vinagre;1984;0
+de_Borra líquida;Borra líquida;1984;0
+de_Borra seca;Borra seca;1984;0
+de_Vinho Composto;Vinho Composto;1984;0
+de_Pisco;Pisco;1984;0
+de_Vinho orgânico;Vinho orgânico;1984;0
+de_Espumante orgânico;Espumante orgânico;1984;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1984;0
+de_Vinho acidificado ;Vinho acidificado ;1984;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1984;0
+de_Outros derivados;Outros derivados;1984;0
+VINHO DE MESA;VINHO DE MESA;1985;275338955
+vm_Tinto;Tinto;1985;216732390
+vm_Branco;Branco;1985;23010666
+vm_Rosado;Rosado;1985;35595899
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1985;67035393
+vv_Tinto;Tinto;1985;19347979
+vv_Branco;Branco;1985;44679484
+vv_Rosado;Rosado;1985;3007930
+SUCO;SUCO;1985;6631667
+su_Suco de uva simples;Suco de uva integral;1985;3544706
+su_Suco concentrado;Suco de uva concentrado;1985;3086961
+su_Suco de uva adoçado;Suco de uva adoçado;1985;0
+su_Suco de uva orgânico;Suco de uva orgânico;1985;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1985;0
+DERIVADOS;DERIVADOS;1985;17336419
+de_Espumante;Espumante;1985;0
+de_Espumante moscatel;Espumante moscatel;1985;0
+de_Base espumante;Base espumante;1985;0
+de_Base espumante moscatel;Base espumante moscatel;1985;0
+de_Base Champenoise champanha;Base Champenoise champanha;1985;0
+de_Base Charmat champanha;Base Charmat champanha;1985;0
+de_Bebida de uva;Bebida de uva;1985;0
+de_Polpa de uva;Polpa de uva;1985;0
+de_Mosto simples;Mosto simples;1985;10637557
+de_Mosto concentrado;Mosto concentrado;1985;354707
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1985;0
+de_Mosto dessulfitado;Mosto dessulfitado;1985;0
+de_Mistelas;Mistelas;1985;0
+de_Néctar de uva;Néctar de uva;1985;0
+de_Licorosos;Licorosos;1985;0
+de_Compostos;Compostos;1985;0
+de_Jeropiga;Jeropiga;1985;234500
+de_Filtrado;Filtrado;1985;0
+de_Frisante;Frisante;1985;0
+de_Vinho leve;Vinho leve;1985;0
+de_Vinho licoroso;Vinho licoroso;1985;0
+de_Brandy;Brandy;1985;13000
+de_Destilado;Destilado;1985;342650
+de_Bagaceira;Bagaceira;1985;299500
+de_Licor de bagaceira;Licor de bagaceira;1985;0
+de_Vinagre;Vinagre;1985;104707
+de_Borra líquida;Borra líquida;1985;5095798
+de_Borra seca;Borra seca;1985;0
+de_Vinho Composto;Vinho Composto;1985;0
+de_Pisco;Pisco;1985;0
+de_Vinho orgânico;Vinho orgânico;1985;254000
+de_Espumante orgânico;Espumante orgânico;1985;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1985;0
+de_Vinho acidificado ;Vinho acidificado ;1985;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1985;0
+de_Outros derivados;Outros derivados;1985;0
+VINHO DE MESA;VINHO DE MESA;1986;157711522
+vm_Tinto;Tinto;1986;118766694
+vm_Branco;Branco;1986;16872183
+vm_Rosado;Rosado;1986;22072645
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1986;48559180
+vv_Tinto;Tinto;1986;12282967
+vv_Branco;Branco;1986;34794145
+vv_Rosado;Rosado;1986;1482068
+SUCO;SUCO;1986;4313768
+su_Suco de uva simples;Suco de uva integral;1986;2116507
+su_Suco concentrado;Suco de uva concentrado;1986;2197261
+su_Suco de uva adoçado;Suco de uva adoçado;1986;0
+su_Suco de uva orgânico;Suco de uva orgânico;1986;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1986;0
+DERIVADOS;DERIVADOS;1986;14785645
+de_Espumante;Espumante;1986;0
+de_Espumante moscatel;Espumante moscatel;1986;0
+de_Base espumante;Base espumante;1986;0
+de_Base espumante moscatel;Base espumante moscatel;1986;0
+de_Base Champenoise champanha;Base Champenoise champanha;1986;0
+de_Base Charmat champanha;Base Charmat champanha;1986;0
+de_Bebida de uva;Bebida de uva;1986;0
+de_Polpa de uva;Polpa de uva;1986;0
+de_Mosto simples;Mosto simples;1986;7031320
+de_Mosto concentrado;Mosto concentrado;1986;295800
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1986;0
+de_Mosto dessulfitado;Mosto dessulfitado;1986;0
+de_Mistelas;Mistelas;1986;378400
+de_Néctar de uva;Néctar de uva;1986;0
+de_Licorosos;Licorosos;1986;0
+de_Compostos;Compostos;1986;0
+de_Jeropiga;Jeropiga;1986;173000
+de_Filtrado;Filtrado;1986;0
+de_Frisante;Frisante;1986;0
+de_Vinho leve;Vinho leve;1986;0
+de_Vinho licoroso;Vinho licoroso;1986;0
+de_Brandy;Brandy;1986;0
+de_Destilado;Destilado;1986;222230
+de_Bagaceira;Bagaceira;1986;156100
+de_Licor de bagaceira;Licor de bagaceira;1986;0
+de_Vinagre;Vinagre;1986;0
+de_Borra líquida;Borra líquida;1986;6357648
+de_Borra seca;Borra seca;1986;0
+de_Vinho Composto;Vinho Composto;1986;0
+de_Pisco;Pisco;1986;0
+de_Vinho orgânico;Vinho orgânico;1986;171147
+de_Espumante orgânico;Espumante orgânico;1986;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1986;0
+de_Vinho acidificado ;Vinho acidificado ;1986;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1986;0
+de_Outros derivados;Outros derivados;1986;0
+VINHO DE MESA;VINHO DE MESA;1987;150467184
+vm_Tinto;Tinto;1987;97841160
+vm_Branco;Branco;1987;27497857
+vm_Rosado;Rosado;1987;25128167
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1987;47301266
+vv_Tinto;Tinto;1987;10920073
+vv_Branco;Branco;1987;35432544
+vv_Rosado;Rosado;1987;948649
+SUCO;SUCO;1987;5469016
+su_Suco de uva simples;Suco de uva integral;1987;2262240
+su_Suco concentrado;Suco de uva concentrado;1987;3206776
+su_Suco de uva adoçado;Suco de uva adoçado;1987;0
+su_Suco de uva orgânico;Suco de uva orgânico;1987;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1987;0
+DERIVADOS;DERIVADOS;1987;14905862
+de_Espumante;Espumante;1987;0
+de_Espumante moscatel;Espumante moscatel;1987;0
+de_Base espumante;Base espumante;1987;0
+de_Base espumante moscatel;Base espumante moscatel;1987;0
+de_Base Champenoise champanha;Base Champenoise champanha;1987;0
+de_Base Charmat champanha;Base Charmat champanha;1987;0
+de_Bebida de uva;Bebida de uva;1987;0
+de_Polpa de uva;Polpa de uva;1987;0
+de_Mosto simples;Mosto simples;1987;7821040
+de_Mosto concentrado;Mosto concentrado;1987;400500
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1987;0
+de_Mosto dessulfitado;Mosto dessulfitado;1987;0
+de_Mistelas;Mistelas;1987;402600
+de_Néctar de uva;Néctar de uva;1987;0
+de_Licorosos;Licorosos;1987;0
+de_Compostos;Compostos;1987;0
+de_Jeropiga;Jeropiga;1987;122000
+de_Filtrado;Filtrado;1987;0
+de_Frisante;Frisante;1987;0
+de_Vinho leve;Vinho leve;1987;0
+de_Vinho licoroso;Vinho licoroso;1987;0
+de_Brandy;Brandy;1987;0
+de_Destilado;Destilado;1987;472576
+de_Bagaceira;Bagaceira;1987;325600
+de_Licor de bagaceira;Licor de bagaceira;1987;0
+de_Vinagre;Vinagre;1987;0
+de_Borra líquida;Borra líquida;1987;5142446
+de_Borra seca;Borra seca;1987;0
+de_Vinho Composto;Vinho Composto;1987;0
+de_Pisco;Pisco;1987;0
+de_Vinho orgânico;Vinho orgânico;1987;219100
+de_Espumante orgânico;Espumante orgânico;1987;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1987;0
+de_Vinho acidificado ;Vinho acidificado ;1987;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1987;0
+de_Outros derivados;Outros derivados;1987;0
+VINHO DE MESA;VINHO DE MESA;1988;244791058
+vm_Tinto;Tinto;1988;173747942
+vm_Branco;Branco;1988;32660045
+vm_Rosado;Rosado;1988;38383071
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1988;76560765
+vv_Tinto;Tinto;1988;18690518
+vv_Branco;Branco;1988;56441847
+vv_Rosado;Rosado;1988;1428400
+SUCO;SUCO;1988;7586870
+su_Suco de uva simples;Suco de uva integral;1988;2018000
+su_Suco concentrado;Suco de uva concentrado;1988;5568870
+su_Suco de uva adoçado;Suco de uva adoçado;1988;0
+su_Suco de uva orgânico;Suco de uva orgânico;1988;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1988;0
+DERIVADOS;DERIVADOS;1988;19644584
+de_Espumante;Espumante;1988;76000
+de_Espumante moscatel;Espumante moscatel;1988;0
+de_Base espumante;Base espumante;1988;0
+de_Base espumante moscatel;Base espumante moscatel;1988;0
+de_Base Champenoise champanha;Base Champenoise champanha;1988;0
+de_Base Charmat champanha;Base Charmat champanha;1988;0
+de_Bebida de uva;Bebida de uva;1988;0
+de_Polpa de uva;Polpa de uva;1988;0
+de_Mosto simples;Mosto simples;1988;16544460
+de_Mosto concentrado;Mosto concentrado;1988;384200
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1988;0
+de_Mosto dessulfitado;Mosto dessulfitado;1988;0
+de_Mistelas;Mistelas;1988;196000
+de_Néctar de uva;Néctar de uva;1988;0
+de_Licorosos;Licorosos;1988;3000
+de_Compostos;Compostos;1988;2000
+de_Jeropiga;Jeropiga;1988;61000
+de_Filtrado;Filtrado;1988;88000
+de_Frisante;Frisante;1988;0
+de_Vinho leve;Vinho leve;1988;0
+de_Vinho licoroso;Vinho licoroso;1988;0
+de_Brandy;Brandy;1988;5216
+de_Destilado;Destilado;1988;287220
+de_Bagaceira;Bagaceira;1988;29000
+de_Licor de bagaceira;Licor de bagaceira;1988;0
+de_Vinagre;Vinagre;1988;0
+de_Borra líquida;Borra líquida;1988;1953488
+de_Borra seca;Borra seca;1988;0
+de_Vinho Composto;Vinho Composto;1988;0
+de_Pisco;Pisco;1988;0
+de_Vinho orgânico;Vinho orgânico;1988;15000
+de_Espumante orgânico;Espumante orgânico;1988;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1988;0
+de_Vinho acidificado ;Vinho acidificado ;1988;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1988;0
+de_Outros derivados;Outros derivados;1988;0
+VINHO DE MESA;VINHO DE MESA;1989;181801961
+vm_Tinto;Tinto;1989;136931173
+vm_Branco;Branco;1989;24603265
+vm_Rosado;Rosado;1989;20267523
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1989;72772144
+vv_Tinto;Tinto;1989;16140751
+vv_Branco;Branco;1989;54983093
+vv_Rosado;Rosado;1989;1648300
+SUCO;SUCO;1989;6923183
+su_Suco de uva simples;Suco de uva integral;1989;2824600
+su_Suco concentrado;Suco de uva concentrado;1989;4098583
+su_Suco de uva adoçado;Suco de uva adoçado;1989;0
+su_Suco de uva orgânico;Suco de uva orgânico;1989;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1989;0
+DERIVADOS;DERIVADOS;1989;12004574
+de_Espumante;Espumante;1989;0
+de_Espumante moscatel;Espumante moscatel;1989;0
+de_Base espumante;Base espumante;1989;0
+de_Base espumante moscatel;Base espumante moscatel;1989;0
+de_Base Champenoise champanha;Base Champenoise champanha;1989;0
+de_Base Charmat champanha;Base Charmat champanha;1989;0
+de_Bebida de uva;Bebida de uva;1989;0
+de_Polpa de uva;Polpa de uva;1989;0
+de_Mosto simples;Mosto simples;1989;8141100
+de_Mosto concentrado;Mosto concentrado;1989;732470
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1989;0
+de_Mosto dessulfitado;Mosto dessulfitado;1989;0
+de_Mistelas;Mistelas;1989;32000
+de_Néctar de uva;Néctar de uva;1989;0
+de_Licorosos;Licorosos;1989;20000
+de_Compostos;Compostos;1989;1900
+de_Jeropiga;Jeropiga;1989;42000
+de_Filtrado;Filtrado;1989;39000
+de_Frisante;Frisante;1989;0
+de_Vinho leve;Vinho leve;1989;249000
+de_Vinho licoroso;Vinho licoroso;1989;0
+de_Brandy;Brandy;1989;6500
+de_Destilado;Destilado;1989;176800
+de_Bagaceira;Bagaceira;1989;52000
+de_Licor de bagaceira;Licor de bagaceira;1989;0
+de_Vinagre;Vinagre;1989;0
+de_Borra líquida;Borra líquida;1989;2426804
+de_Borra seca;Borra seca;1989;0
+de_Vinho Composto;Vinho Composto;1989;0
+de_Pisco;Pisco;1989;0
+de_Vinho orgânico;Vinho orgânico;1989;85000
+de_Espumante orgânico;Espumante orgânico;1989;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1989;0
+de_Vinho acidificado ;Vinho acidificado ;1989;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1989;0
+de_Outros derivados;Outros derivados;1989;0
+VINHO DE MESA;VINHO DE MESA;1990;210548199
+vm_Tinto;Tinto;1990;154359897
+vm_Branco;Branco;1990;33512030
+vm_Rosado;Rosado;1990;22676272
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1990;73689124
+vv_Tinto;Tinto;1990;17750504
+vv_Branco;Branco;1990;52080420
+vv_Rosado;Rosado;1990;3858200
+SUCO;SUCO;1990;10423252
+su_Suco de uva simples;Suco de uva integral;1990;2848560
+su_Suco concentrado;Suco de uva concentrado;1990;7574692
+su_Suco de uva adoçado;Suco de uva adoçado;1990;0
+su_Suco de uva orgânico;Suco de uva orgânico;1990;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1990;0
+DERIVADOS;DERIVADOS;1990;16191621
+de_Espumante;Espumante;1990;0
+de_Espumante moscatel;Espumante moscatel;1990;0
+de_Base espumante;Base espumante;1990;0
+de_Base espumante moscatel;Base espumante moscatel;1990;0
+de_Base Champenoise champanha;Base Champenoise champanha;1990;0
+de_Base Charmat champanha;Base Charmat champanha;1990;0
+de_Bebida de uva;Bebida de uva;1990;0
+de_Polpa de uva;Polpa de uva;1990;0
+de_Mosto simples;Mosto simples;1990;13307690
+de_Mosto concentrado;Mosto concentrado;1990;1098250
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1990;0
+de_Mosto dessulfitado;Mosto dessulfitado;1990;0
+de_Mistelas;Mistelas;1990;149000
+de_Néctar de uva;Néctar de uva;1990;0
+de_Licorosos;Licorosos;1990;24300
+de_Compostos;Compostos;1990;0
+de_Jeropiga;Jeropiga;1990;0
+de_Filtrado;Filtrado;1990;11000
+de_Frisante;Frisante;1990;0
+de_Vinho leve;Vinho leve;1990;264000
+de_Vinho licoroso;Vinho licoroso;1990;0
+de_Brandy;Brandy;1990;0
+de_Destilado;Destilado;1990;0
+de_Bagaceira;Bagaceira;1990;55000
+de_Licor de bagaceira;Licor de bagaceira;1990;0
+de_Vinagre;Vinagre;1990;0
+de_Borra líquida;Borra líquida;1990;1282381
+de_Borra seca;Borra seca;1990;0
+de_Vinho Composto;Vinho Composto;1990;0
+de_Pisco;Pisco;1990;0
+de_Vinho orgânico;Vinho orgânico;1990;0
+de_Espumante orgânico;Espumante orgânico;1990;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1990;0
+de_Vinho acidificado ;Vinho acidificado ;1990;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1990;0
+de_Outros derivados;Outros derivados;1990;0
+VINHO DE MESA;VINHO DE MESA;1991;126768254
+vm_Tinto;Tinto;1991;90320836
+vm_Branco;Branco;1991;25046588
+vm_Rosado;Rosado;1991;11400830
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1991;45519167
+vv_Tinto;Tinto;1991;12001895
+vv_Branco;Branco;1991;33307472
+vv_Rosado;Rosado;1991;209800
+SUCO;SUCO;1991;11324462
+su_Suco de uva simples;Suco de uva integral;1991;3609000
+su_Suco concentrado;Suco de uva concentrado;1991;7715462
+su_Suco de uva adoçado;Suco de uva adoçado;1991;0
+su_Suco de uva orgânico;Suco de uva orgânico;1991;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1991;0
+DERIVADOS;DERIVADOS;1991;20352398
+de_Espumante;Espumante;1991;0
+de_Espumante moscatel;Espumante moscatel;1991;0
+de_Base espumante;Base espumante;1991;0
+de_Base espumante moscatel;Base espumante moscatel;1991;0
+de_Base Champenoise champanha;Base Champenoise champanha;1991;0
+de_Base Charmat champanha;Base Charmat champanha;1991;0
+de_Bebida de uva;Bebida de uva;1991;0
+de_Polpa de uva;Polpa de uva;1991;0
+de_Mosto simples;Mosto simples;1991;17407568
+de_Mosto concentrado;Mosto concentrado;1991;921400
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1991;0
+de_Mosto dessulfitado;Mosto dessulfitado;1991;0
+de_Mistelas;Mistelas;1991;0
+de_Néctar de uva;Néctar de uva;1991;0
+de_Licorosos;Licorosos;1991;11500
+de_Compostos;Compostos;1991;0
+de_Jeropiga;Jeropiga;1991;0
+de_Filtrado;Filtrado;1991;18000
+de_Frisante;Frisante;1991;0
+de_Vinho leve;Vinho leve;1991;192800
+de_Vinho licoroso;Vinho licoroso;1991;0
+de_Brandy;Brandy;1991;0
+de_Destilado;Destilado;1991;0
+de_Bagaceira;Bagaceira;1991;15000
+de_Licor de bagaceira;Licor de bagaceira;1991;0
+de_Vinagre;Vinagre;1991;0
+de_Borra líquida;Borra líquida;1991;1649130
+de_Borra seca;Borra seca;1991;0
+de_Vinho Composto;Vinho Composto;1991;0
+de_Pisco;Pisco;1991;0
+de_Vinho orgânico;Vinho orgânico;1991;137000
+de_Espumante orgânico;Espumante orgânico;1991;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1991;0
+de_Vinho acidificado ;Vinho acidificado ;1991;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1991;0
+de_Outros derivados;Outros derivados;1991;0
+VINHO DE MESA;VINHO DE MESA;1992;163248419
+vm_Tinto;Tinto;1992;118638894
+vm_Branco;Branco;1992;25446255
+vm_Rosado;Rosado;1992;19163270
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1992;52612778
+vv_Tinto;Tinto;1992;13449911
+vv_Branco;Branco;1992;38856367
+vv_Rosado;Rosado;1992;306500
+SUCO;SUCO;1992;10797624
+su_Suco de uva simples;Suco de uva integral;1992;4033698
+su_Suco concentrado;Suco de uva concentrado;1992;6763926
+su_Suco de uva adoçado;Suco de uva adoçado;1992;0
+su_Suco de uva orgânico;Suco de uva orgânico;1992;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1992;0
+DERIVADOS;DERIVADOS;1992;29469940
+de_Espumante;Espumante;1992;11000
+de_Espumante moscatel;Espumante moscatel;1992;0
+de_Base espumante;Base espumante;1992;0
+de_Base espumante moscatel;Base espumante moscatel;1992;0
+de_Base Champenoise champanha;Base Champenoise champanha;1992;0
+de_Base Charmat champanha;Base Charmat champanha;1992;0
+de_Bebida de uva;Bebida de uva;1992;0
+de_Polpa de uva;Polpa de uva;1992;0
+de_Mosto simples;Mosto simples;1992;27491540
+de_Mosto concentrado;Mosto concentrado;1992;288900
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1992;0
+de_Mosto dessulfitado;Mosto dessulfitado;1992;0
+de_Mistelas;Mistelas;1992;0
+de_Néctar de uva;Néctar de uva;1992;0
+de_Licorosos;Licorosos;1992;7800
+de_Compostos;Compostos;1992;0
+de_Jeropiga;Jeropiga;1992;60000
+de_Filtrado;Filtrado;1992;11000
+de_Frisante;Frisante;1992;0
+de_Vinho leve;Vinho leve;1992;144500
+de_Vinho licoroso;Vinho licoroso;1992;0
+de_Brandy;Brandy;1992;0
+de_Destilado;Destilado;1992;0
+de_Bagaceira;Bagaceira;1992;10000
+de_Licor de bagaceira;Licor de bagaceira;1992;0
+de_Vinagre;Vinagre;1992;45000
+de_Borra líquida;Borra líquida;1992;1400200
+de_Borra seca;Borra seca;1992;0
+de_Vinho Composto;Vinho Composto;1992;0
+de_Pisco;Pisco;1992;0
+de_Vinho orgânico;Vinho orgânico;1992;0
+de_Espumante orgânico;Espumante orgânico;1992;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1992;0
+de_Vinho acidificado ;Vinho acidificado ;1992;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1992;0
+de_Outros derivados;Outros derivados;1992;0
+VINHO DE MESA;VINHO DE MESA;1993;171754995
+vm_Tinto;Tinto;1993;125172218
+vm_Branco;Branco;1993;31986075
+vm_Rosado;Rosado;1993;14596702
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1993;53054225
+vv_Tinto;Tinto;1993;12119485
+vv_Branco;Branco;1993;40415898
+vv_Rosado;Rosado;1993;518842
+SUCO;SUCO;1993;12031753
+su_Suco de uva simples;Suco de uva integral;1993;3800800
+su_Suco concentrado;Suco de uva concentrado;1993;8230953
+su_Suco de uva adoçado;Suco de uva adoçado;1993;0
+su_Suco de uva orgânico;Suco de uva orgânico;1993;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1993;0
+DERIVADOS;DERIVADOS;1993;17573100
+de_Espumante;Espumante;1993;0
+de_Espumante moscatel;Espumante moscatel;1993;0
+de_Base espumante;Base espumante;1993;0
+de_Base espumante moscatel;Base espumante moscatel;1993;0
+de_Base Champenoise champanha;Base Champenoise champanha;1993;0
+de_Base Charmat champanha;Base Charmat champanha;1993;0
+de_Bebida de uva;Bebida de uva;1993;0
+de_Polpa de uva;Polpa de uva;1993;0
+de_Mosto simples;Mosto simples;1993;17218000
+de_Mosto concentrado;Mosto concentrado;1993;355100
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1993;0
+de_Mosto dessulfitado;Mosto dessulfitado;1993;0
+de_Mistelas;Mistelas;1993;0
+de_Néctar de uva;Néctar de uva;1993;0
+de_Licorosos;Licorosos;1993;0
+de_Compostos;Compostos;1993;0
+de_Jeropiga;Jeropiga;1993;0
+de_Filtrado;Filtrado;1993;0
+de_Frisante;Frisante;1993;0
+de_Vinho leve;Vinho leve;1993;0
+de_Vinho licoroso;Vinho licoroso;1993;0
+de_Brandy;Brandy;1993;0
+de_Destilado;Destilado;1993;0
+de_Bagaceira;Bagaceira;1993;0
+de_Licor de bagaceira;Licor de bagaceira;1993;0
+de_Vinagre;Vinagre;1993;0
+de_Borra líquida;Borra líquida;1993;0
+de_Borra seca;Borra seca;1993;0
+de_Vinho Composto;Vinho Composto;1993;0
+de_Pisco;Pisco;1993;0
+de_Vinho orgânico;Vinho orgânico;1993;0
+de_Espumante orgânico;Espumante orgânico;1993;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1993;0
+de_Vinho acidificado ;Vinho acidificado ;1993;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1993;0
+de_Outros derivados;Outros derivados;1993;0
+VINHO DE MESA;VINHO DE MESA;1994;202073263
+vm_Tinto;Tinto;1994;161479717
+vm_Branco;Branco;1994;28291853
+vm_Rosado;Rosado;1994;12301693
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1994;58733741
+vv_Tinto;Tinto;1994;15646861
+vv_Branco;Branco;1994;42419680
+vv_Rosado;Rosado;1994;667200
+SUCO;SUCO;1994;13343721
+su_Suco de uva simples;Suco de uva integral;1994;3884000
+su_Suco concentrado;Suco de uva concentrado;1994;9459721
+su_Suco de uva adoçado;Suco de uva adoçado;1994;0
+su_Suco de uva orgânico;Suco de uva orgânico;1994;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1994;0
+DERIVADOS;DERIVADOS;1994;16053642
+de_Espumante;Espumante;1994;0
+de_Espumante moscatel;Espumante moscatel;1994;0
+de_Base espumante;Base espumante;1994;0
+de_Base espumante moscatel;Base espumante moscatel;1994;0
+de_Base Champenoise champanha;Base Champenoise champanha;1994;0
+de_Base Charmat champanha;Base Charmat champanha;1994;0
+de_Bebida de uva;Bebida de uva;1994;0
+de_Polpa de uva;Polpa de uva;1994;0
+de_Mosto simples;Mosto simples;1994;10972700
+de_Mosto concentrado;Mosto concentrado;1994;335500
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1994;0
+de_Mosto dessulfitado;Mosto dessulfitado;1994;0
+de_Mistelas;Mistelas;1994;0
+de_Néctar de uva;Néctar de uva;1994;0
+de_Licorosos;Licorosos;1994;0
+de_Compostos;Compostos;1994;0
+de_Jeropiga;Jeropiga;1994;0
+de_Filtrado;Filtrado;1994;0
+de_Frisante;Frisante;1994;0
+de_Vinho leve;Vinho leve;1994;0
+de_Vinho licoroso;Vinho licoroso;1994;0
+de_Brandy;Brandy;1994;0
+de_Destilado;Destilado;1994;0
+de_Bagaceira;Bagaceira;1994;0
+de_Licor de bagaceira;Licor de bagaceira;1994;0
+de_Vinagre;Vinagre;1994;0
+de_Borra líquida;Borra líquida;1994;0
+de_Borra seca;Borra seca;1994;0
+de_Vinho Composto;Vinho Composto;1994;0
+de_Pisco;Pisco;1994;0
+de_Vinho orgânico;Vinho orgânico;1994;4745442
+de_Espumante orgânico;Espumante orgânico;1994;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1994;0
+de_Vinho acidificado ;Vinho acidificado ;1994;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1994;0
+de_Outros derivados;Outros derivados;1994;0
+VINHO DE MESA;VINHO DE MESA;1995;214788304
+vm_Tinto;Tinto;1995;167174017
+vm_Branco;Branco;1995;15472732
+vm_Rosado;Rosado;1995;32141555
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1995;47126229
+vv_Tinto;Tinto;1995;11924291
+vv_Branco;Branco;1995;34209738
+vv_Rosado;Rosado;1995;992200
+SUCO;SUCO;1995;12893959
+su_Suco de uva simples;Suco de uva integral;1995;4123776
+su_Suco concentrado;Suco de uva concentrado;1995;8770183
+su_Suco de uva adoçado;Suco de uva adoçado;1995;0
+su_Suco de uva orgânico;Suco de uva orgânico;1995;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1995;0
+DERIVADOS;DERIVADOS;1995;23637100
+de_Espumante;Espumante;1995;0
+de_Espumante moscatel;Espumante moscatel;1995;0
+de_Base espumante;Base espumante;1995;0
+de_Base espumante moscatel;Base espumante moscatel;1995;0
+de_Base Champenoise champanha;Base Champenoise champanha;1995;0
+de_Base Charmat champanha;Base Charmat champanha;1995;0
+de_Bebida de uva;Bebida de uva;1995;0
+de_Polpa de uva;Polpa de uva;1995;0
+de_Mosto simples;Mosto simples;1995;20917600
+de_Mosto concentrado;Mosto concentrado;1995;265000
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1995;0
+de_Mosto dessulfitado;Mosto dessulfitado;1995;0
+de_Mistelas;Mistelas;1995;0
+de_Néctar de uva;Néctar de uva;1995;0
+de_Licorosos;Licorosos;1995;0
+de_Compostos;Compostos;1995;0
+de_Jeropiga;Jeropiga;1995;0
+de_Filtrado;Filtrado;1995;0
+de_Frisante;Frisante;1995;0
+de_Vinho leve;Vinho leve;1995;0
+de_Vinho licoroso;Vinho licoroso;1995;0
+de_Brandy;Brandy;1995;0
+de_Destilado;Destilado;1995;0
+de_Bagaceira;Bagaceira;1995;0
+de_Licor de bagaceira;Licor de bagaceira;1995;0
+de_Vinagre;Vinagre;1995;0
+de_Borra líquida;Borra líquida;1995;0
+de_Borra seca;Borra seca;1995;0
+de_Vinho Composto;Vinho Composto;1995;0
+de_Pisco;Pisco;1995;0
+de_Vinho orgânico;Vinho orgânico;1995;2454500
+de_Espumante orgânico;Espumante orgânico;1995;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1995;0
+de_Vinho acidificado ;Vinho acidificado ;1995;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1995;0
+de_Outros derivados;Outros derivados;1995;0
+VINHO DE MESA;VINHO DE MESA;1996;152917771
+vm_Tinto;Tinto;1996;115896909
+vm_Branco;Branco;1996;24073622
+vm_Rosado;Rosado;1996;12947240
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1996;45325058
+vv_Tinto;Tinto;1996;12819866
+vv_Branco;Branco;1996;31893892
+vv_Rosado;Rosado;1996;611300
+SUCO;SUCO;1996;9189900
+su_Suco de uva simples;Suco de uva integral;1996;2407900
+su_Suco concentrado;Suco de uva concentrado;1996;6782000
+su_Suco de uva adoçado;Suco de uva adoçado;1996;0
+su_Suco de uva orgânico;Suco de uva orgânico;1996;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1996;0
+DERIVADOS;DERIVADOS;1996;12754798
+de_Espumante;Espumante;1996;0
+de_Espumante moscatel;Espumante moscatel;1996;0
+de_Base espumante;Base espumante;1996;0
+de_Base espumante moscatel;Base espumante moscatel;1996;0
+de_Base Champenoise champanha;Base Champenoise champanha;1996;0
+de_Base Charmat champanha;Base Charmat champanha;1996;0
+de_Bebida de uva;Bebida de uva;1996;0
+de_Polpa de uva;Polpa de uva;1996;0
+de_Mosto simples;Mosto simples;1996;12111372
+de_Mosto concentrado;Mosto concentrado;1996;292000
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1996;0
+de_Mosto dessulfitado;Mosto dessulfitado;1996;0
+de_Mistelas;Mistelas;1996;0
+de_Néctar de uva;Néctar de uva;1996;0
+de_Licorosos;Licorosos;1996;0
+de_Compostos;Compostos;1996;0
+de_Jeropiga;Jeropiga;1996;0
+de_Filtrado;Filtrado;1996;0
+de_Frisante;Frisante;1996;0
+de_Vinho leve;Vinho leve;1996;0
+de_Vinho licoroso;Vinho licoroso;1996;0
+de_Brandy;Brandy;1996;0
+de_Destilado;Destilado;1996;0
+de_Bagaceira;Bagaceira;1996;0
+de_Licor de bagaceira;Licor de bagaceira;1996;0
+de_Vinagre;Vinagre;1996;0
+de_Borra líquida;Borra líquida;1996;0
+de_Borra seca;Borra seca;1996;0
+de_Vinho Composto;Vinho Composto;1996;0
+de_Pisco;Pisco;1996;0
+de_Vinho orgânico;Vinho orgânico;1996;351426
+de_Espumante orgânico;Espumante orgânico;1996;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1996;0
+de_Vinho acidificado ;Vinho acidificado ;1996;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1996;0
+de_Outros derivados;Outros derivados;1996;0
+VINHO DE MESA;VINHO DE MESA;1997;182816047
+vm_Tinto;Tinto;1997;116458841
+vm_Branco;Branco;1997;41842945
+vm_Rosado;Rosado;1997;24514261
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1997;46988414
+vv_Tinto;Tinto;1997;12590647
+vv_Branco;Branco;1997;33792167
+vv_Rosado;Rosado;1997;605600
+SUCO;SUCO;1997;13409014
+su_Suco de uva simples;Suco de uva integral;1997;2884969
+su_Suco concentrado;Suco de uva concentrado;1997;10524045
+su_Suco de uva adoçado;Suco de uva adoçado;1997;0
+su_Suco de uva orgânico;Suco de uva orgânico;1997;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1997;0
+DERIVADOS;DERIVADOS;1997;24553317
+de_Espumante;Espumante;1997;0
+de_Espumante moscatel;Espumante moscatel;1997;0
+de_Base espumante;Base espumante;1997;0
+de_Base espumante moscatel;Base espumante moscatel;1997;0
+de_Base Champenoise champanha;Base Champenoise champanha;1997;0
+de_Base Charmat champanha;Base Charmat champanha;1997;0
+de_Bebida de uva;Bebida de uva;1997;0
+de_Polpa de uva;Polpa de uva;1997;0
+de_Mosto simples;Mosto simples;1997;19066000
+de_Mosto concentrado;Mosto concentrado;1997;490000
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1997;0
+de_Mosto dessulfitado;Mosto dessulfitado;1997;0
+de_Mistelas;Mistelas;1997;0
+de_Néctar de uva;Néctar de uva;1997;0
+de_Licorosos;Licorosos;1997;0
+de_Compostos;Compostos;1997;0
+de_Jeropiga;Jeropiga;1997;0
+de_Filtrado;Filtrado;1997;0
+de_Frisante;Frisante;1997;0
+de_Vinho leve;Vinho leve;1997;0
+de_Vinho licoroso;Vinho licoroso;1997;0
+de_Brandy;Brandy;1997;0
+de_Destilado;Destilado;1997;0
+de_Bagaceira;Bagaceira;1997;0
+de_Licor de bagaceira;Licor de bagaceira;1997;0
+de_Vinagre;Vinagre;1997;0
+de_Borra líquida;Borra líquida;1997;0
+de_Borra seca;Borra seca;1997;0
+de_Vinho Composto;Vinho Composto;1997;0
+de_Pisco;Pisco;1997;0
+de_Vinho orgânico;Vinho orgânico;1997;4997317
+de_Espumante orgânico;Espumante orgânico;1997;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1997;0
+de_Vinho acidificado ;Vinho acidificado ;1997;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1997;0
+de_Outros derivados;Outros derivados;1997;0
+VINHO DE MESA;VINHO DE MESA;1998;150814943
+vm_Tinto;Tinto;1998;102127865
+vm_Branco;Branco;1998;32140249
+vm_Rosado;Rosado;1998;16546829
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1998;33898630
+vv_Tinto;Tinto;1998;8716140
+vv_Branco;Branco;1998;24384090
+vv_Rosado;Rosado;1998;798400
+SUCO;SUCO;1998;13904186
+su_Suco de uva simples;Suco de uva integral;1998;3904186
+su_Suco concentrado;Suco de uva concentrado;1998;10000000
+su_Suco de uva adoçado;Suco de uva adoçado;1998;0
+su_Suco de uva orgânico;Suco de uva orgânico;1998;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1998;0
+DERIVADOS;DERIVADOS;1998;14693351
+de_Espumante;Espumante;1998;0
+de_Espumante moscatel;Espumante moscatel;1998;0
+de_Base espumante;Base espumante;1998;0
+de_Base espumante moscatel;Base espumante moscatel;1998;0
+de_Base Champenoise champanha;Base Champenoise champanha;1998;0
+de_Base Charmat champanha;Base Charmat champanha;1998;0
+de_Bebida de uva;Bebida de uva;1998;0
+de_Polpa de uva;Polpa de uva;1998;0
+de_Mosto simples;Mosto simples;1998;11046570
+de_Mosto concentrado;Mosto concentrado;1998;381000
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1998;0
+de_Mosto dessulfitado;Mosto dessulfitado;1998;0
+de_Mistelas;Mistelas;1998;0
+de_Néctar de uva;Néctar de uva;1998;0
+de_Licorosos;Licorosos;1998;0
+de_Compostos;Compostos;1998;0
+de_Jeropiga;Jeropiga;1998;0
+de_Filtrado;Filtrado;1998;0
+de_Frisante;Frisante;1998;0
+de_Vinho leve;Vinho leve;1998;0
+de_Vinho licoroso;Vinho licoroso;1998;0
+de_Brandy;Brandy;1998;0
+de_Destilado;Destilado;1998;0
+de_Bagaceira;Bagaceira;1998;0
+de_Licor de bagaceira;Licor de bagaceira;1998;0
+de_Vinagre;Vinagre;1998;0
+de_Borra líquida;Borra líquida;1998;0
+de_Borra seca;Borra seca;1998;0
+de_Vinho Composto;Vinho Composto;1998;0
+de_Pisco;Pisco;1998;0
+de_Vinho orgânico;Vinho orgânico;1998;3265781
+de_Espumante orgânico;Espumante orgânico;1998;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1998;0
+de_Vinho acidificado ;Vinho acidificado ;1998;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1998;0
+de_Outros derivados;Outros derivados;1998;0
+VINHO DE MESA;VINHO DE MESA;1999;226520776
+vm_Tinto;Tinto;1999;168149414
+vm_Branco;Branco;1999;42528150
+vm_Rosado;Rosado;1999;15843212
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);1999;45830497
+vv_Tinto;Tinto;1999;14640657
+vv_Branco;Branco;1999;30674840
+vv_Rosado;Rosado;1999;515000
+SUCO;SUCO;1999;15532303
+su_Suco de uva simples;Suco de uva integral;1999;4132303
+su_Suco concentrado;Suco de uva concentrado;1999;11400000
+su_Suco de uva adoçado;Suco de uva adoçado;1999;0
+su_Suco de uva orgânico;Suco de uva orgânico;1999;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;1999;0
+DERIVADOS;DERIVADOS;1999;23422306
+de_Espumante;Espumante;1999;6900
+de_Espumante moscatel;Espumante moscatel;1999;0
+de_Base espumante;Base espumante;1999;0
+de_Base espumante moscatel;Base espumante moscatel;1999;0
+de_Base Champenoise champanha;Base Champenoise champanha;1999;0
+de_Base Charmat champanha;Base Charmat champanha;1999;0
+de_Bebida de uva;Bebida de uva;1999;0
+de_Polpa de uva;Polpa de uva;1999;0
+de_Mosto simples;Mosto simples;1999;14359734
+de_Mosto concentrado;Mosto concentrado;1999;411354
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;1999;0
+de_Mosto dessulfitado;Mosto dessulfitado;1999;0
+de_Mistelas;Mistelas;1999;0
+de_Néctar de uva;Néctar de uva;1999;0
+de_Licorosos;Licorosos;1999;44740
+de_Compostos;Compostos;1999;0
+de_Jeropiga;Jeropiga;1999;0
+de_Filtrado;Filtrado;1999;0
+de_Frisante;Frisante;1999;0
+de_Vinho leve;Vinho leve;1999;0
+de_Vinho licoroso;Vinho licoroso;1999;0
+de_Brandy;Brandy;1999;0
+de_Destilado;Destilado;1999;7350
+de_Bagaceira;Bagaceira;1999;0
+de_Licor de bagaceira;Licor de bagaceira;1999;0
+de_Vinagre;Vinagre;1999;0
+de_Borra líquida;Borra líquida;1999;0
+de_Borra seca;Borra seca;1999;0
+de_Vinho Composto;Vinho Composto;1999;0
+de_Pisco;Pisco;1999;0
+de_Vinho orgânico;Vinho orgânico;1999;8592228
+de_Espumante orgânico;Espumante orgânico;1999;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;1999;0
+de_Vinho acidificado ;Vinho acidificado ;1999;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;1999;0
+de_Outros derivados;Outros derivados;1999;0
+VINHO DE MESA;VINHO DE MESA;2000;273025576
+vm_Tinto;Tinto;2000;208242670
+vm_Branco;Branco;2000;44902276
+vm_Rosado;Rosado;2000;19880630
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);2000;56209739
+vv_Tinto;Tinto;2000;18545613
+vv_Branco;Branco;2000;36955126
+vv_Rosado;Rosado;2000;709000
+SUCO;SUCO;2000;17722779
+su_Suco de uva simples;Suco de uva integral;2000;3546779
+su_Suco concentrado;Suco de uva concentrado;2000;14176000
+su_Suco de uva adoçado;Suco de uva adoçado;2000;0
+su_Suco de uva orgânico;Suco de uva orgânico;2000;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;2000;0
+DERIVADOS;DERIVADOS;2000;25959016
+de_Espumante;Espumante;2000;71410
+de_Espumante moscatel;Espumante moscatel;2000;0
+de_Base espumante;Base espumante;2000;0
+de_Base espumante moscatel;Base espumante moscatel;2000;0
+de_Base Champenoise champanha;Base Champenoise champanha;2000;0
+de_Base Charmat champanha;Base Charmat champanha;2000;0
+de_Bebida de uva;Bebida de uva;2000;0
+de_Polpa de uva;Polpa de uva;2000;0
+de_Mosto simples;Mosto simples;2000;16192018
+de_Mosto concentrado;Mosto concentrado;2000;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;2000;0
+de_Mosto dessulfitado;Mosto dessulfitado;2000;0
+de_Mistelas;Mistelas;2000;33000
+de_Néctar de uva;Néctar de uva;2000;0
+de_Licorosos;Licorosos;2000;21000
+de_Compostos;Compostos;2000;0
+de_Jeropiga;Jeropiga;2000;0
+de_Filtrado;Filtrado;2000;0
+de_Frisante;Frisante;2000;0
+de_Vinho leve;Vinho leve;2000;0
+de_Vinho licoroso;Vinho licoroso;2000;0
+de_Brandy;Brandy;2000;0
+de_Destilado;Destilado;2000;1960
+de_Bagaceira;Bagaceira;2000;12700
+de_Licor de bagaceira;Licor de bagaceira;2000;0
+de_Vinagre;Vinagre;2000;0
+de_Borra líquida;Borra líquida;2000;9626928
+de_Borra seca;Borra seca;2000;0
+de_Vinho Composto;Vinho Composto;2000;0
+de_Pisco;Pisco;2000;0
+de_Vinho orgânico;Vinho orgânico;2000;0
+de_Espumante orgânico;Espumante orgânico;2000;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2000;0
+de_Vinho acidificado ;Vinho acidificado ;2000;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2000;0
+de_Outros derivados;Outros derivados;2000;0
+VINHO DE MESA;VINHO DE MESA;2001;228932458
+vm_Tinto;Tinto;2001;175267437
+vm_Branco;Branco;2001;44322836
+vm_Rosado;Rosado;2001;9342185
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);2001;34159277
+vv_Tinto;Tinto;2001;13587683
+vv_Branco;Branco;2001;20393594
+vv_Rosado;Rosado;2001;178000
+SUCO;SUCO;2001;17987182
+su_Suco de uva simples;Suco de uva integral;2001;5196430
+su_Suco concentrado;Suco de uva concentrado;2001;12790752
+su_Suco de uva adoçado;Suco de uva adoçado;2001;0
+su_Suco de uva orgânico;Suco de uva orgânico;2001;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;2001;0
+DERIVADOS;DERIVADOS;2001;15498842
+de_Espumante;Espumante;2001;0
+de_Espumante moscatel;Espumante moscatel;2001;276099
+de_Base espumante;Base espumante;2001;0
+de_Base espumante moscatel;Base espumante moscatel;2001;0
+de_Base Champenoise champanha;Base Champenoise champanha;2001;0
+de_Base Charmat champanha;Base Charmat champanha;2001;0
+de_Bebida de uva;Bebida de uva;2001;0
+de_Polpa de uva;Polpa de uva;2001;0
+de_Mosto simples;Mosto simples;2001;6977231
+de_Mosto concentrado;Mosto concentrado;2001;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;2001;0
+de_Mosto dessulfitado;Mosto dessulfitado;2001;0
+de_Mistelas;Mistelas;2001;15000
+de_Néctar de uva;Néctar de uva;2001;0
+de_Licorosos;Licorosos;2001;4000
+de_Compostos;Compostos;2001;0
+de_Jeropiga;Jeropiga;2001;0
+de_Filtrado;Filtrado;2001;0
+de_Frisante;Frisante;2001;0
+de_Vinho leve;Vinho leve;2001;0
+de_Vinho licoroso;Vinho licoroso;2001;0
+de_Brandy;Brandy;2001;0
+de_Destilado;Destilado;2001;0
+de_Bagaceira;Bagaceira;2001;10350
+de_Licor de bagaceira;Licor de bagaceira;2001;0
+de_Vinagre;Vinagre;2001;0
+de_Borra líquida;Borra líquida;2001;8216162
+de_Borra seca;Borra seca;2001;0
+de_Vinho Composto;Vinho Composto;2001;0
+de_Pisco;Pisco;2001;0
+de_Vinho orgânico;Vinho orgânico;2001;0
+de_Espumante orgânico;Espumante orgânico;2001;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2001;0
+de_Vinho acidificado ;Vinho acidificado ;2001;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2001;0
+de_Outros derivados;Outros derivados;2001;0
+VINHO DE MESA;VINHO DE MESA;2002;259589740
+vm_Tinto;Tinto;2002;215892333
+vm_Branco;Branco;2002;35329657
+vm_Rosado;Rosado;2002;8367750
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);2002;31655226
+vv_Tinto;Tinto;2002;13619033
+vv_Branco;Branco;2002;17911689
+vv_Rosado;Rosado;2002;124504
+SUCO;SUCO;2002;20228691
+su_Suco de uva simples;Suco de uva integral;2002;5505889
+su_Suco concentrado;Suco de uva concentrado;2002;14722802
+su_Suco de uva adoçado;Suco de uva adoçado;2002;0
+su_Suco de uva orgânico;Suco de uva orgânico;2002;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;2002;0
+DERIVADOS;DERIVADOS;2002;28122348
+de_Espumante;Espumante;2002;0
+de_Espumante moscatel;Espumante moscatel;2002;0
+de_Base espumante;Base espumante;2002;0
+de_Base espumante moscatel;Base espumante moscatel;2002;0
+de_Base Champenoise champanha;Base Champenoise champanha;2002;0
+de_Base Charmat champanha;Base Charmat champanha;2002;0
+de_Bebida de uva;Bebida de uva;2002;0
+de_Polpa de uva;Polpa de uva;2002;0
+de_Mosto simples;Mosto simples;2002;12875000
+de_Mosto concentrado;Mosto concentrado;2002;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;2002;0
+de_Mosto dessulfitado;Mosto dessulfitado;2002;0
+de_Mistelas;Mistelas;2002;0
+de_Néctar de uva;Néctar de uva;2002;0
+de_Licorosos;Licorosos;2002;0
+de_Compostos;Compostos;2002;0
+de_Jeropiga;Jeropiga;2002;0
+de_Filtrado;Filtrado;2002;0
+de_Frisante;Frisante;2002;0
+de_Vinho leve;Vinho leve;2002;0
+de_Vinho licoroso;Vinho licoroso;2002;0
+de_Brandy;Brandy;2002;0
+de_Destilado;Destilado;2002;0
+de_Bagaceira;Bagaceira;2002;0
+de_Licor de bagaceira;Licor de bagaceira;2002;0
+de_Vinagre;Vinagre;2002;0
+de_Borra líquida;Borra líquida;2002;8541861
+de_Borra seca;Borra seca;2002;0
+de_Vinho Composto;Vinho Composto;2002;0
+de_Pisco;Pisco;2002;0
+de_Vinho orgânico;Vinho orgânico;2002;6705487
+de_Espumante orgânico;Espumante orgânico;2002;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2002;0
+de_Vinho acidificado ;Vinho acidificado ;2002;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2002;0
+de_Outros derivados;Outros derivados;2002;0
+VINHO DE MESA;VINHO DE MESA;2003;202545724
+vm_Tinto;Tinto;2003;155513687
+vm_Branco;Branco;2003;40861639
+vm_Rosado;Rosado;2003;6170398
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);2003;29551457
+vv_Tinto;Tinto;2003;15357576
+vv_Branco;Branco;2003;14058481
+vv_Rosado;Rosado;2003;135400
+SUCO;SUCO;2003;12420745
+su_Suco de uva simples;Suco de uva integral;2003;1372381
+su_Suco concentrado;Suco de uva concentrado;2003;11048364
+su_Suco de uva adoçado;Suco de uva adoçado;2003;0
+su_Suco de uva orgânico;Suco de uva orgânico;2003;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;2003;0
+DERIVADOS;DERIVADOS;2003;24108352
+de_Espumante;Espumante;2003;0
+de_Espumante moscatel;Espumante moscatel;2003;147600
+de_Base espumante;Base espumante;2003;0
+de_Base espumante moscatel;Base espumante moscatel;2003;0
+de_Base Champenoise champanha;Base Champenoise champanha;2003;0
+de_Base Charmat champanha;Base Charmat champanha;2003;0
+de_Bebida de uva;Bebida de uva;2003;0
+de_Polpa de uva;Polpa de uva;2003;0
+de_Mosto simples;Mosto simples;2003;13172480
+de_Mosto concentrado;Mosto concentrado;2003;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;2003;0
+de_Mosto dessulfitado;Mosto dessulfitado;2003;0
+de_Mistelas;Mistelas;2003;5500
+de_Néctar de uva;Néctar de uva;2003;0
+de_Licorosos;Licorosos;2003;34420
+de_Compostos;Compostos;2003;0
+de_Jeropiga;Jeropiga;2003;0
+de_Filtrado;Filtrado;2003;0
+de_Frisante;Frisante;2003;0
+de_Vinho leve;Vinho leve;2003;11000
+de_Vinho licoroso;Vinho licoroso;2003;0
+de_Brandy;Brandy;2003;0
+de_Destilado;Destilado;2003;0
+de_Bagaceira;Bagaceira;2003;26800
+de_Licor de bagaceira;Licor de bagaceira;2003;0
+de_Vinagre;Vinagre;2003;0
+de_Borra líquida;Borra líquida;2003;3126172
+de_Borra seca;Borra seca;2003;0
+de_Vinho Composto;Vinho Composto;2003;0
+de_Pisco;Pisco;2003;0
+de_Vinho orgânico;Vinho orgânico;2003;7584380
+de_Espumante orgânico;Espumante orgânico;2003;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2003;0
+de_Vinho acidificado ;Vinho acidificado ;2003;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2003;0
+de_Outros derivados;Outros derivados;2003;0
+VINHO DE MESA;VINHO DE MESA;2004;313962284
+vm_Tinto;Tinto;2004;254172425
+vm_Branco;Branco;2004;51719967
+vm_Rosado;Rosado;2004;8069892
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);2004;42902608
+vv_Tinto;Tinto;2004;23062182
+vv_Branco;Branco;2004;19803647
+vv_Rosado;Rosado;2004;36779
+SUCO;SUCO;2004;24078112
+su_Suco de uva simples;Suco de uva integral;2004;6222380
+su_Suco concentrado;Suco de uva concentrado;2004;17855732
+su_Suco de uva adoçado;Suco de uva adoçado;2004;0
+su_Suco de uva orgânico;Suco de uva orgânico;2004;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;2004;0
+DERIVADOS;DERIVADOS;2004;28471858
+de_Espumante;Espumante;2004;3999
+de_Espumante moscatel;Espumante moscatel;2004;204000
+de_Base espumante;Base espumante;2004;0
+de_Base espumante moscatel;Base espumante moscatel;2004;98900
+de_Base Champenoise champanha;Base Champenoise champanha;2004;0
+de_Base Charmat champanha;Base Charmat champanha;2004;0
+de_Bebida de uva;Bebida de uva;2004;0
+de_Polpa de uva;Polpa de uva;2004;890562
+de_Mosto simples;Mosto simples;2004;26067525
+de_Mosto concentrado;Mosto concentrado;2004;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;2004;0
+de_Mosto dessulfitado;Mosto dessulfitado;2004;0
+de_Mistelas;Mistelas;2004;11500
+de_Néctar de uva;Néctar de uva;2004;0
+de_Licorosos;Licorosos;2004;0
+de_Compostos;Compostos;2004;0
+de_Jeropiga;Jeropiga;2004;0
+de_Filtrado;Filtrado;2004;0
+de_Frisante;Frisante;2004;0
+de_Vinho leve;Vinho leve;2004;6000
+de_Vinho licoroso;Vinho licoroso;2004;77800
+de_Brandy;Brandy;2004;0
+de_Destilado;Destilado;2004;1000
+de_Bagaceira;Bagaceira;2004;66082
+de_Licor de bagaceira;Licor de bagaceira;2004;0
+de_Vinagre;Vinagre;2004;0
+de_Borra líquida;Borra líquida;2004;1044490
+de_Borra seca;Borra seca;2004;0
+de_Vinho Composto;Vinho Composto;2004;0
+de_Pisco;Pisco;2004;0
+de_Vinho orgânico;Vinho orgânico;2004;0
+de_Espumante orgânico;Espumante orgânico;2004;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2004;0
+de_Vinho acidificado ;Vinho acidificado ;2004;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2004;0
+de_Outros derivados;Outros derivados;2004;0
+VINHO DE MESA;VINHO DE MESA;2005;226080432
+vm_Tinto;Tinto;2005;180698666
+vm_Branco;Branco;2005;39212146
+vm_Rosado;Rosado;2005;6169620
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);2005;45453898
+vv_Tinto;Tinto;2005;25409805
+vv_Branco;Branco;2005;20012363
+vv_Rosado;Rosado;2005;31730
+SUCO;SUCO;2005;27960596
+su_Suco de uva simples;Suco de uva integral;2005;7103175
+su_Suco concentrado;Suco de uva concentrado;2005;19513244
+su_Suco de uva adoçado;Suco de uva adoçado;2005;1344177
+su_Suco de uva orgânico;Suco de uva orgânico;2005;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;2005;0
+DERIVADOS;DERIVADOS;2005;25541605
+de_Espumante;Espumante;2005;1920
+de_Espumante moscatel;Espumante moscatel;2005;514480
+de_Base espumante;Base espumante;2005;239000
+de_Base espumante moscatel;Base espumante moscatel;2005;212400
+de_Base Champenoise champanha;Base Champenoise champanha;2005;0
+de_Base Charmat champanha;Base Charmat champanha;2005;0
+de_Bebida de uva;Bebida de uva;2005;0
+de_Polpa de uva;Polpa de uva;2005;1350672
+de_Mosto simples;Mosto simples;2005;22429791
+de_Mosto concentrado;Mosto concentrado;2005;83116
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;2005;0
+de_Mosto dessulfitado;Mosto dessulfitado;2005;0
+de_Mistelas;Mistelas;2005;9960
+de_Néctar de uva;Néctar de uva;2005;0
+de_Licorosos;Licorosos;2005;0
+de_Compostos;Compostos;2005;0
+de_Jeropiga;Jeropiga;2005;0
+de_Filtrado;Filtrado;2005;0
+de_Frisante;Frisante;2005;0
+de_Vinho leve;Vinho leve;2005;16500
+de_Vinho licoroso;Vinho licoroso;2005;125700
+de_Brandy;Brandy;2005;0
+de_Destilado;Destilado;2005;0
+de_Bagaceira;Bagaceira;2005;32050
+de_Licor de bagaceira;Licor de bagaceira;2005;0
+de_Vinagre;Vinagre;2005;0
+de_Borra líquida;Borra líquida;2005;526016
+de_Borra seca;Borra seca;2005;0
+de_Vinho Composto;Vinho Composto;2005;0
+de_Pisco;Pisco;2005;0
+de_Vinho orgânico;Vinho orgânico;2005;0
+de_Espumante orgânico;Espumante orgânico;2005;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2005;0
+de_Vinho acidificado ;Vinho acidificado ;2005;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2005;0
+de_Outros derivados;Outros derivados;2005;0
+VINHO DE MESA;VINHO DE MESA;2006;185100887
+vm_Tinto;Tinto;2006;149552555
+vm_Branco;Branco;2006;31738390
+vm_Rosado;Rosado;2006;3809942
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);2006;32168977
+vv_Tinto;Tinto;2006;18868108
+vv_Branco;Branco;2006;13249969
+vv_Rosado;Rosado;2006;50900
+SUCO;SUCO;2006;31361096
+su_Suco de uva simples;Suco de uva integral;2006;13946491
+su_Suco concentrado;Suco de uva concentrado;2006;17414605
+su_Suco de uva adoçado;Suco de uva adoçado;2006;0
+su_Suco de uva orgânico;Suco de uva orgânico;2006;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;2006;0
+DERIVADOS;DERIVADOS;2006;27752531
+de_Espumante;Espumante;2006;26600
+de_Espumante moscatel;Espumante moscatel;2006;320514
+de_Base espumante;Base espumante;2006;0
+de_Base espumante moscatel;Base espumante moscatel;2006;362589
+de_Base Champenoise champanha;Base Champenoise champanha;2006;0
+de_Base Charmat champanha;Base Charmat champanha;2006;0
+de_Bebida de uva;Bebida de uva;2006;0
+de_Polpa de uva;Polpa de uva;2006;1006000
+de_Mosto simples;Mosto simples;2006;25903812
+de_Mosto concentrado;Mosto concentrado;2006;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;2006;0
+de_Mosto dessulfitado;Mosto dessulfitado;2006;0
+de_Mistelas;Mistelas;2006;0
+de_Néctar de uva;Néctar de uva;2006;0
+de_Licorosos;Licorosos;2006;0
+de_Compostos;Compostos;2006;0
+de_Jeropiga;Jeropiga;2006;0
+de_Filtrado;Filtrado;2006;0
+de_Frisante;Frisante;2006;0
+de_Vinho leve;Vinho leve;2006;0
+de_Vinho licoroso;Vinho licoroso;2006;28500
+de_Brandy;Brandy;2006;0
+de_Destilado;Destilado;2006;0
+de_Bagaceira;Bagaceira;2006;24250
+de_Licor de bagaceira;Licor de bagaceira;2006;0
+de_Vinagre;Vinagre;2006;0
+de_Borra líquida;Borra líquida;2006;57333
+de_Borra seca;Borra seca;2006;0
+de_Vinho Composto;Vinho Composto;2006;0
+de_Pisco;Pisco;2006;0
+de_Vinho orgânico;Vinho orgânico;2006;22933
+de_Espumante orgânico;Espumante orgânico;2006;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2006;0
+de_Vinho acidificado ;Vinho acidificado ;2006;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2006;0
+de_Outros derivados;Outros derivados;2006;0
+VINHO DE MESA;VINHO DE MESA;2007;275287908
+vm_Tinto;Tinto;2007;228156220
+vm_Branco;Branco;2007;42118552
+vm_Rosado;Rosado;2007;5013136
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);2007;43176484
+vv_Tinto;Tinto;2007;24786071
+vv_Branco;Branco;2007;17598428
+vv_Rosado;Rosado;2007;791985
+SUCO;SUCO;2007;30136844
+su_Suco de uva simples;Suco de uva integral;2007;10147037
+su_Suco concentrado;Suco de uva concentrado;2007;19280709
+su_Suco de uva adoçado;Suco de uva adoçado;2007;709098
+su_Suco de uva orgânico;Suco de uva orgânico;2007;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;2007;0
+DERIVADOS;DERIVADOS;2007;42011603
+de_Espumante;Espumante;2007;0
+de_Espumante moscatel;Espumante moscatel;2007;589332
+de_Base espumante;Base espumante;2007;78250
+de_Base espumante moscatel;Base espumante moscatel;2007;111200
+de_Base Champenoise champanha;Base Champenoise champanha;2007;0
+de_Base Charmat champanha;Base Charmat champanha;2007;0
+de_Bebida de uva;Bebida de uva;2007;0
+de_Polpa de uva;Polpa de uva;2007;1083202
+de_Mosto simples;Mosto simples;2007;37558010
+de_Mosto concentrado;Mosto concentrado;2007;110000
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;2007;0
+de_Mosto dessulfitado;Mosto dessulfitado;2007;0
+de_Mistelas;Mistelas;2007;1900
+de_Néctar de uva;Néctar de uva;2007;0
+de_Licorosos;Licorosos;2007;0
+de_Compostos;Compostos;2007;0
+de_Jeropiga;Jeropiga;2007;0
+de_Filtrado;Filtrado;2007;0
+de_Frisante;Frisante;2007;0
+de_Vinho leve;Vinho leve;2007;0
+de_Vinho licoroso;Vinho licoroso;2007;27926
+de_Brandy;Brandy;2007;0
+de_Destilado;Destilado;2007;0
+de_Bagaceira;Bagaceira;2007;48500
+de_Licor de bagaceira;Licor de bagaceira;2007;0
+de_Vinagre;Vinagre;2007;0
+de_Borra líquida;Borra líquida;2007;2095873
+de_Borra seca;Borra seca;2007;0
+de_Vinho Composto;Vinho Composto;2007;0
+de_Pisco;Pisco;2007;0
+de_Vinho orgânico;Vinho orgânico;2007;307410
+de_Espumante orgânico;Espumante orgânico;2007;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2007;0
+de_Vinho acidificado ;Vinho acidificado ;2007;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2007;0
+de_Outros derivados;Outros derivados;2007;0
+VINHO DE MESA;VINHO DE MESA;2008;287506811
+vm_Tinto;Tinto;2008;241057928
+vm_Branco;Branco;2008;42942053
+vm_Rosado;Rosado;2008;3506830
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);2008;47334501
+vv_Tinto;Tinto;2008;27583032
+vv_Branco;Branco;2008;18812571
+vv_Rosado;Rosado;2008;938898
+SUCO;SUCO;2008;35647994
+su_Suco de uva simples;Suco de uva integral;2008;11817941
+su_Suco concentrado;Suco de uva concentrado;2008;23014646
+su_Suco de uva adoçado;Suco de uva adoçado;2008;815407
+su_Suco de uva orgânico;Suco de uva orgânico;2008;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;2008;0
+DERIVADOS;DERIVADOS;2008;59622293
+de_Espumante;Espumante;2008;88690
+de_Espumante moscatel;Espumante moscatel;2008;1113462
+de_Base espumante;Base espumante;2008;220120
+de_Base espumante moscatel;Base espumante moscatel;2008;474721
+de_Base Champenoise champanha;Base Champenoise champanha;2008;0
+de_Base Charmat champanha;Base Charmat champanha;2008;0
+de_Bebida de uva;Bebida de uva;2008;1082700
+de_Polpa de uva;Polpa de uva;2008;1188260
+de_Mosto simples;Mosto simples;2008;53683415
+de_Mosto concentrado;Mosto concentrado;2008;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;2008;0
+de_Mosto dessulfitado;Mosto dessulfitado;2008;0
+de_Mistelas;Mistelas;2008;2000
+de_Néctar de uva;Néctar de uva;2008;0
+de_Licorosos;Licorosos;2008;0
+de_Compostos;Compostos;2008;0
+de_Jeropiga;Jeropiga;2008;0
+de_Filtrado;Filtrado;2008;0
+de_Frisante;Frisante;2008;0
+de_Vinho leve;Vinho leve;2008;0
+de_Vinho licoroso;Vinho licoroso;2008;65650
+de_Brandy;Brandy;2008;0
+de_Destilado;Destilado;2008;0
+de_Bagaceira;Bagaceira;2008;8500
+de_Licor de bagaceira;Licor de bagaceira;2008;0
+de_Vinagre;Vinagre;2008;0
+de_Borra líquida;Borra líquida;2008;1679775
+de_Borra seca;Borra seca;2008;0
+de_Vinho Composto;Vinho Composto;2008;0
+de_Pisco;Pisco;2008;0
+de_Vinho orgânico;Vinho orgânico;2008;15000
+de_Espumante orgânico;Espumante orgânico;2008;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2008;0
+de_Vinho acidificado ;Vinho acidificado ;2008;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2008;0
+de_Outros derivados;Outros derivados;2008;0
+VINHO DE MESA;VINHO DE MESA;2009;205418206
+vm_Tinto;Tinto;2009;164143454
+vm_Branco;Branco;2009;39211278
+vm_Rosado;Rosado;2009;2063474
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);2009;39900568
+vv_Tinto;Tinto;2009;18209043
+vv_Branco;Branco;2009;21366975
+vv_Rosado;Rosado;2009;324550
+SUCO;SUCO;2009;39715098
+su_Suco de uva simples;Suco de uva integral;2009;16034003
+su_Suco concentrado;Suco de uva concentrado;2009;23006457
+su_Suco de uva adoçado;Suco de uva adoçado;2009;674638
+su_Suco de uva orgânico;Suco de uva orgânico;2009;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;2009;0
+DERIVADOS;DERIVADOS;2009;56787892
+de_Espumante;Espumante;2009;0
+de_Espumante moscatel;Espumante moscatel;2009;1190500
+de_Base espumante;Base espumante;2009;335850
+de_Base espumante moscatel;Base espumante moscatel;2009;442150
+de_Base Champenoise champanha;Base Champenoise champanha;2009;0
+de_Base Charmat champanha;Base Charmat champanha;2009;0
+de_Bebida de uva;Bebida de uva;2009;420
+de_Polpa de uva;Polpa de uva;2009;1352417
+de_Mosto simples;Mosto simples;2009;53418555
+de_Mosto concentrado;Mosto concentrado;2009;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;2009;0
+de_Mosto dessulfitado;Mosto dessulfitado;2009;0
+de_Mistelas;Mistelas;2009;3500
+de_Néctar de uva;Néctar de uva;2009;0
+de_Licorosos;Licorosos;2009;38000
+de_Compostos;Compostos;2009;0
+de_Jeropiga;Jeropiga;2009;0
+de_Filtrado;Filtrado;2009;0
+de_Frisante;Frisante;2009;0
+de_Vinho leve;Vinho leve;2009;0
+de_Vinho licoroso;Vinho licoroso;2009;0
+de_Brandy;Brandy;2009;0
+de_Destilado;Destilado;2009;0
+de_Bagaceira;Bagaceira;2009;6500
+de_Licor de bagaceira;Licor de bagaceira;2009;0
+de_Vinagre;Vinagre;2009;0
+de_Borra líquida;Borra líquida;2009;0
+de_Borra seca;Borra seca;2009;0
+de_Vinho Composto;Vinho Composto;2009;0
+de_Pisco;Pisco;2009;0
+de_Vinho orgânico;Vinho orgânico;2009;0
+de_Espumante orgânico;Espumante orgânico;2009;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2009;0
+de_Vinho acidificado ;Vinho acidificado ;2009;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2009;0
+de_Outros derivados;Outros derivados;2009;0
+VINHO DE MESA;VINHO DE MESA;2010;195267980
+vm_Tinto;Tinto;2010;157290088
+vm_Branco;Branco;2010;35408083
+vm_Rosado;Rosado;2010;2569809
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);2010;24805713
+vv_Tinto;Tinto;2010;11401406
+vv_Branco;Branco;2010;13013027
+vv_Rosado;Rosado;2010;391280
+SUCO;SUCO;2010;50125944
+su_Suco de uva simples;Suco de uva integral;2010;26887259
+su_Suco concentrado;Suco de uva concentrado;2010;23238685
+su_Suco de uva adoçado;Suco de uva adoçado;2010;0
+su_Suco de uva orgânico;Suco de uva orgânico;2010;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;2010;0
+DERIVADOS;DERIVADOS;2010;51210756
+de_Espumante;Espumante;2010;10125
+de_Espumante moscatel;Espumante moscatel;2010;703393
+de_Base espumante;Base espumante;2010;0
+de_Base espumante moscatel;Base espumante moscatel;2010;1144508
+de_Base Champenoise champanha;Base Champenoise champanha;2010;92082
+de_Base Charmat champanha;Base Charmat champanha;2010;254000
+de_Bebida de uva;Bebida de uva;2010;7900
+de_Polpa de uva;Polpa de uva;2010;1951606
+de_Mosto simples;Mosto simples;2010;45912040
+de_Mosto concentrado;Mosto concentrado;2010;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;2010;0
+de_Mosto dessulfitado;Mosto dessulfitado;2010;0
+de_Mistelas;Mistelas;2010;0
+de_Néctar de uva;Néctar de uva;2010;0
+de_Licorosos;Licorosos;2010;0
+de_Compostos;Compostos;2010;0
+de_Jeropiga;Jeropiga;2010;69000
+de_Filtrado;Filtrado;2010;0
+de_Frisante;Frisante;2010;831000
+de_Vinho leve;Vinho leve;2010;0
+de_Vinho licoroso;Vinho licoroso;2010;15000
+de_Brandy;Brandy;2010;0
+de_Destilado;Destilado;2010;0
+de_Bagaceira;Bagaceira;2010;0
+de_Licor de bagaceira;Licor de bagaceira;2010;0
+de_Vinagre;Vinagre;2010;5817
+de_Borra líquida;Borra líquida;2010;64304
+de_Borra seca;Borra seca;2010;149981
+de_Vinho Composto;Vinho Composto;2010;0
+de_Pisco;Pisco;2010;0
+de_Vinho orgânico;Vinho orgânico;2010;0
+de_Espumante orgânico;Espumante orgânico;2010;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2010;0
+de_Vinho acidificado ;Vinho acidificado ;2010;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2010;0
+de_Outros derivados;Outros derivados;2010;0
+VINHO DE MESA;VINHO DE MESA;2011;257840749
+vm_Tinto;Tinto;2011;210113358
+vm_Branco;Branco;2011;46007504
+vm_Rosado;Rosado;2011;1719887
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);2011;47598471
+vv_Tinto;Tinto;2011;24104740
+vv_Branco;Branco;2011;22739426
+vv_Rosado;Rosado;2011;754305
+SUCO;SUCO;2011;69364324
+su_Suco de uva simples;Suco de uva integral;2011;39487800
+su_Suco concentrado;Suco de uva concentrado;2011;29564324
+su_Suco de uva adoçado;Suco de uva adoçado;2011;312200
+su_Suco de uva orgânico;Suco de uva orgânico;2011;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;2011;0
+DERIVADOS;DERIVADOS;2011;85748723
+de_Espumante;Espumante;2011;26361
+de_Espumante moscatel;Espumante moscatel;2011;219100
+de_Base espumante;Base espumante;2011;0
+de_Base espumante moscatel;Base espumante moscatel;2011;2749540
+de_Base Champenoise champanha;Base Champenoise champanha;2011;74746
+de_Base Charmat champanha;Base Charmat champanha;2011;865858
+de_Bebida de uva;Bebida de uva;2011;0
+de_Polpa de uva;Polpa de uva;2011;2480120
+de_Mosto simples;Mosto simples;2011;77285998
+de_Mosto concentrado;Mosto concentrado;2011;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;2011;1037600
+de_Mosto dessulfitado;Mosto dessulfitado;2011;0
+de_Mistelas;Mistelas;2011;0
+de_Néctar de uva;Néctar de uva;2011;0
+de_Licorosos;Licorosos;2011;0
+de_Compostos;Compostos;2011;0
+de_Jeropiga;Jeropiga;2011;0
+de_Filtrado;Filtrado;2011;0
+de_Frisante;Frisante;2011;1003800
+de_Vinho leve;Vinho leve;2011;0
+de_Vinho licoroso;Vinho licoroso;2011;0
+de_Brandy;Brandy;2011;0
+de_Destilado;Destilado;2011;0
+de_Bagaceira;Bagaceira;2011;0
+de_Licor de bagaceira;Licor de bagaceira;2011;0
+de_Vinagre;Vinagre;2011;0
+de_Borra líquida;Borra líquida;2011;0
+de_Borra seca;Borra seca;2011;0
+de_Vinho Composto;Vinho Composto;2011;0
+de_Pisco;Pisco;2011;0
+de_Vinho orgânico;Vinho orgânico;2011;5600
+de_Espumante orgânico;Espumante orgânico;2011;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2011;0
+de_Vinho acidificado ;Vinho acidificado ;2011;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2011;0
+de_Outros derivados;Outros derivados;2011;0
+VINHO DE MESA;VINHO DE MESA;2012;212777037
+vm_Tinto;Tinto;2012;175875432
+vm_Branco;Branco;2012;34938249
+vm_Rosado;Rosado;2012;1963356
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);2012;45200730
+vv_Tinto;Tinto;2012;24027589
+vv_Branco;Branco;2012;20647238
+vv_Rosado;Rosado;2012;525903
+SUCO;SUCO;2012;70066732
+su_Suco de uva simples;Suco de uva integral;2012;31908829
+su_Suco concentrado;Suco de uva concentrado;2012;37624855
+su_Suco de uva adoçado;Suco de uva adoçado;2012;533048
+su_Suco de uva orgânico;Suco de uva orgânico;2012;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;2012;0
+DERIVADOS;DERIVADOS;2012;100757101
+de_Espumante;Espumante;2012;17200
+de_Espumante moscatel;Espumante moscatel;2012;139775
+de_Base espumante;Base espumante;2012;0
+de_Base espumante moscatel;Base espumante moscatel;2012;2798908
+de_Base Champenoise champanha;Base Champenoise champanha;2012;369278
+de_Base Charmat champanha;Base Charmat champanha;2012;479625
+de_Bebida de uva;Bebida de uva;2012;0
+de_Polpa de uva;Polpa de uva;2012;2797665
+de_Mosto simples;Mosto simples;2012;93341575
+de_Mosto concentrado;Mosto concentrado;2012;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;2012;0
+de_Mosto dessulfitado;Mosto dessulfitado;2012;0
+de_Mistelas;Mistelas;2012;200
+de_Néctar de uva;Néctar de uva;2012;0
+de_Licorosos;Licorosos;2012;26775
+de_Compostos;Compostos;2012;7600
+de_Jeropiga;Jeropiga;2012;0
+de_Filtrado;Filtrado;2012;0
+de_Frisante;Frisante;2012;778500
+de_Vinho leve;Vinho leve;2012;0
+de_Vinho licoroso;Vinho licoroso;2012;0
+de_Brandy;Brandy;2012;0
+de_Destilado;Destilado;2012;0
+de_Bagaceira;Bagaceira;2012;0
+de_Licor de bagaceira;Licor de bagaceira;2012;0
+de_Vinagre;Vinagre;2012;0
+de_Borra líquida;Borra líquida;2012;0
+de_Borra seca;Borra seca;2012;0
+de_Vinho Composto;Vinho Composto;2012;0
+de_Pisco;Pisco;2012;0
+de_Vinho orgânico;Vinho orgânico;2012;0
+de_Espumante orgânico;Espumante orgânico;2012;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2012;0
+de_Vinho acidificado ;Vinho acidificado ;2012;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2012;0
+de_Outros derivados;Outros derivados;2012;0
+VINHO DE MESA;VINHO DE MESA;2013;196904222
+vm_Tinto;Tinto;2013;163111797
+vm_Branco;Branco;2013;32066403
+vm_Rosado;Rosado;2013;1726022
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);2013;45782530
+vv_Tinto;Tinto;2013;23156458
+vv_Branco;Branco;2013;21906349
+vv_Rosado;Rosado;2013;719723
+SUCO;SUCO;2013;64879790
+su_Suco de uva simples;Suco de uva integral;2013;33673396
+su_Suco concentrado;Suco de uva concentrado;2013;31206394
+su_Suco de uva adoçado;Suco de uva adoçado;2013;0
+su_Suco de uva orgânico;Suco de uva orgânico;2013;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;2013;0
+DERIVADOS;DERIVADOS;2013;64072127
+de_Espumante;Espumante;2013;30275
+de_Espumante moscatel;Espumante moscatel;2013;159781
+de_Base espumante;Base espumante;2013;0
+de_Base espumante moscatel;Base espumante moscatel;2013;1470700
+de_Base Champenoise champanha;Base Champenoise champanha;2013;359617
+de_Base Charmat champanha;Base Charmat champanha;2013;624728
+de_Bebida de uva;Bebida de uva;2013;4260
+de_Polpa de uva;Polpa de uva;2013;1742152
+de_Mosto simples;Mosto simples;2013;58517506
+de_Mosto concentrado;Mosto concentrado;2013;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;2013;0
+de_Mosto dessulfitado;Mosto dessulfitado;2013;0
+de_Mistelas;Mistelas;2013;2500
+de_Néctar de uva;Néctar de uva;2013;10000
+de_Licorosos;Licorosos;2013;0
+de_Compostos;Compostos;2013;0
+de_Jeropiga;Jeropiga;2013;0
+de_Filtrado;Filtrado;2013;0
+de_Frisante;Frisante;2013;1009000
+de_Vinho leve;Vinho leve;2013;0
+de_Vinho licoroso;Vinho licoroso;2013;100
+de_Brandy;Brandy;2013;0
+de_Destilado;Destilado;2013;0
+de_Bagaceira;Bagaceira;2013;0
+de_Licor de bagaceira;Licor de bagaceira;2013;0
+de_Vinagre;Vinagre;2013;0
+de_Borra líquida;Borra líquida;2013;63111
+de_Borra seca;Borra seca;2013;78397
+de_Vinho Composto;Vinho Composto;2013;0
+de_Pisco;Pisco;2013;0
+de_Vinho orgânico;Vinho orgânico;2013;0
+de_Espumante orgânico;Espumante orgânico;2013;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2013;0
+de_Vinho acidificado ;Vinho acidificado ;2013;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2013;0
+de_Outros derivados;Outros derivados;2013;0
+VINHO DE MESA;VINHO DE MESA;2014;196173123
+vm_Tinto;Tinto;2014;157776363
+vm_Branco;Branco;2014;37438069
+vm_Rosado;Rosado;2014;958691
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);2014;38464314
+vv_Tinto;Tinto;2014;17208996
+vv_Branco;Branco;2014;20054804
+vv_Rosado;Rosado;2014;1200514
+SUCO;SUCO;2014;76723537
+su_Suco de uva simples;Suco de uva integral;2014;43331223
+su_Suco concentrado;Suco de uva concentrado;2014;33392314
+su_Suco de uva adoçado;Suco de uva adoçado;2014;0
+su_Suco de uva orgânico;Suco de uva orgânico;2014;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;2014;0
+DERIVADOS;DERIVADOS;2014;62907281
+de_Espumante;Espumante;2014;2700
+de_Espumante moscatel;Espumante moscatel;2014;100000
+de_Base espumante;Base espumante;2014;0
+de_Base espumante moscatel;Base espumante moscatel;2014;1808044
+de_Base Champenoise champanha;Base Champenoise champanha;2014;234725
+de_Base Charmat champanha;Base Charmat champanha;2014;376968
+de_Bebida de uva;Bebida de uva;2014;3860
+de_Polpa de uva;Polpa de uva;2014;2484000
+de_Mosto simples;Mosto simples;2014;57582195
+de_Mosto concentrado;Mosto concentrado;2014;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;2014;0
+de_Mosto dessulfitado;Mosto dessulfitado;2014;0
+de_Mistelas;Mistelas;2014;1000
+de_Néctar de uva;Néctar de uva;2014;1140
+de_Licorosos;Licorosos;2014;0
+de_Compostos;Compostos;2014;0
+de_Jeropiga;Jeropiga;2014;0
+de_Filtrado;Filtrado;2014;0
+de_Frisante;Frisante;2014;26069
+de_Vinho leve;Vinho leve;2014;0
+de_Vinho licoroso;Vinho licoroso;2014;36000
+de_Brandy;Brandy;2014;0
+de_Destilado;Destilado;2014;0
+de_Bagaceira;Bagaceira;2014;0
+de_Licor de bagaceira;Licor de bagaceira;2014;0
+de_Vinagre;Vinagre;2014;53776
+de_Borra líquida;Borra líquida;2014;50954
+de_Borra seca;Borra seca;2014;142850
+de_Vinho Composto;Vinho Composto;2014;3000
+de_Pisco;Pisco;2014;0
+de_Vinho orgânico;Vinho orgânico;2014;0
+de_Espumante orgânico;Espumante orgânico;2014;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2014;0
+de_Vinho acidificado ;Vinho acidificado ;2014;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2014;0
+de_Outros derivados;Outros derivados;2014;0
+VINHO DE MESA;VINHO DE MESA;2015;210308560
+vm_Tinto;Tinto;2015;169811472
+vm_Branco;Branco;2015;39557250
+vm_Rosado;Rosado;2015;939838
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);2015;37148982
+vv_Tinto;Tinto;2015;16745896
+vv_Branco;Branco;2015;19561966
+vv_Rosado;Rosado;2015;841120
+SUCO;SUCO;2015;87894468
+su_Suco de uva simples;Suco de uva integral;2015;52233155
+su_Suco concentrado;Suco de uva concentrado;2015;35661313
+su_Suco de uva adoçado;Suco de uva adoçado;2015;0
+su_Suco de uva orgânico;Suco de uva orgânico;2015;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;2015;0
+DERIVADOS;DERIVADOS;2015;107349704
+de_Espumante;Espumante;2015;23750
+de_Espumante moscatel;Espumante moscatel;2015;110100
+de_Base espumante;Base espumante;2015;0
+de_Base espumante moscatel;Base espumante moscatel;2015;1607727
+de_Base Champenoise champanha;Base Champenoise champanha;2015;605001
+de_Base Charmat champanha;Base Charmat champanha;2015;1466259
+de_Bebida de uva;Bebida de uva;2015;922
+de_Polpa de uva;Polpa de uva;2015;2371140
+de_Mosto simples;Mosto simples;2015;100911592
+de_Mosto concentrado;Mosto concentrado;2015;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;2015;0
+de_Mosto dessulfitado;Mosto dessulfitado;2015;0
+de_Mistelas;Mistelas;2015;0
+de_Néctar de uva;Néctar de uva;2015;1000
+de_Licorosos;Licorosos;2015;0
+de_Compostos;Compostos;2015;0
+de_Jeropiga;Jeropiga;2015;0
+de_Filtrado;Filtrado;2015;0
+de_Frisante;Frisante;2015;0
+de_Vinho leve;Vinho leve;2015;0
+de_Vinho licoroso;Vinho licoroso;2015;56000
+de_Brandy;Brandy;2015;0
+de_Destilado;Destilado;2015;0
+de_Bagaceira;Bagaceira;2015;1350
+de_Licor de bagaceira;Licor de bagaceira;2015;0
+de_Vinagre;Vinagre;2015;25800
+de_Borra líquida;Borra líquida;2015;48833
+de_Borra seca;Borra seca;2015;120230
+de_Vinho Composto;Vinho Composto;2015;0
+de_Pisco;Pisco;2015;0
+de_Vinho orgânico;Vinho orgânico;2015;0
+de_Espumante orgânico;Espumante orgânico;2015;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2015;0
+de_Vinho acidificado ;Vinho acidificado ;2015;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2015;0
+de_Outros derivados;Outros derivados;2015;0
+VINHO DE MESA;VINHO DE MESA;2016;86319015
+vm_Tinto;Tinto;2016;75279191
+vm_Branco;Branco;2016;10727099
+vm_Rosado;Rosado;2016;312725
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);2016;18070626
+vv_Tinto;Tinto;2016;8774847
+vv_Branco;Branco;2016;8705066
+vv_Rosado;Rosado;2016;590713
+SUCO;SUCO;2016;42210389
+su_Suco de uva simples;Suco de uva integral;2016;31117869
+su_Suco concentrado;Suco de uva concentrado;2016;11092520
+su_Suco de uva adoçado;Suco de uva adoçado;2016;0
+su_Suco de uva orgânico;Suco de uva orgânico;2016;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;2016;0
+DERIVADOS;DERIVADOS;2016;53950314
+de_Espumante;Espumante;2016;1500
+de_Espumante moscatel;Espumante moscatel;2016;100000
+de_Base espumante;Base espumante;2016;0
+de_Base espumante moscatel;Base espumante moscatel;2016;1325700
+de_Base Champenoise champanha;Base Champenoise champanha;2016;740395
+de_Base Charmat champanha;Base Charmat champanha;2016;250280
+de_Bebida de uva;Bebida de uva;2016;3474
+de_Polpa de uva;Polpa de uva;2016;1620430
+de_Mosto simples;Mosto simples;2016;49770993
+de_Mosto concentrado;Mosto concentrado;2016;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;2016;0
+de_Mosto dessulfitado;Mosto dessulfitado;2016;0
+de_Mistelas;Mistelas;2016;0
+de_Néctar de uva;Néctar de uva;2016;0
+de_Licorosos;Licorosos;2016;0
+de_Compostos;Compostos;2016;0
+de_Jeropiga;Jeropiga;2016;0
+de_Filtrado;Filtrado;2016;0
+de_Frisante;Frisante;2016;0
+de_Vinho leve;Vinho leve;2016;0
+de_Vinho licoroso;Vinho licoroso;2016;24200
+de_Brandy;Brandy;2016;0
+de_Destilado;Destilado;2016;0
+de_Bagaceira;Bagaceira;2016;1000
+de_Licor de bagaceira;Licor de bagaceira;2016;0
+de_Vinagre;Vinagre;2016;5000
+de_Borra líquida;Borra líquida;2016;24975
+de_Borra seca;Borra seca;2016;82367
+de_Vinho Composto;Vinho Composto;2016;0
+de_Pisco;Pisco;2016;0
+de_Vinho orgânico;Vinho orgânico;2016;0
+de_Espumante orgânico;Espumante orgânico;2016;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2016;0
+de_Vinho acidificado ;Vinho acidificado ;2016;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2016;0
+de_Outros derivados;Outros derivados;2016;0
+VINHO DE MESA;VINHO DE MESA;2017;255015187
+vm_Tinto;Tinto;2017;1365957
+vm_Branco;Branco;2017;217527985
+vm_Rosado;Rosado;2017;36121245
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);2017;44537870
+vv_Tinto;Tinto;2017;21442212
+vv_Branco;Branco;2017;21928400
+vv_Rosado;Rosado;2017;1167258
+SUCO;SUCO;2017;77161971
+su_Suco de uva simples;Suco de uva integral;2017;46865626
+su_Suco concentrado;Suco de uva concentrado;2017;30059271
+su_Suco de uva adoçado;Suco de uva adoçado;2017;177774
+su_Suco de uva orgânico;Suco de uva orgânico;2017;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;2017;59300
+DERIVADOS;DERIVADOS;2017;109116761
+de_Espumante;Espumante;2017;11280
+de_Espumante moscatel;Espumante moscatel;2017;152375
+de_Base espumante;Base espumante;2017;0
+de_Base espumante moscatel;Base espumante moscatel;2017;1965629
+de_Base Champenoise champanha;Base Champenoise champanha;2017;1552403
+de_Base Charmat champanha;Base Charmat champanha;2017;893364
+de_Bebida de uva;Bebida de uva;2017;0
+de_Polpa de uva;Polpa de uva;2017;2507125
+de_Mosto simples;Mosto simples;2017;101010116
+de_Mosto concentrado;Mosto concentrado;2017;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;2017;772110
+de_Mosto dessulfitado;Mosto dessulfitado;2017;0
+de_Mistelas;Mistelas;2017;1500
+de_Néctar de uva;Néctar de uva;2017;3000
+de_Licorosos;Licorosos;2017;110820
+de_Compostos;Compostos;2017;0
+de_Jeropiga;Jeropiga;2017;0
+de_Filtrado;Filtrado;2017;0
+de_Frisante;Frisante;2017;0
+de_Vinho leve;Vinho leve;2017;0
+de_Vinho licoroso;Vinho licoroso;2017;110820
+de_Brandy;Brandy;2017;0
+de_Destilado;Destilado;2017;0
+de_Bagaceira;Bagaceira;2017;900
+de_Licor de bagaceira;Licor de bagaceira;2017;0
+de_Vinagre;Vinagre;2017;25319
+de_Borra líquida;Borra líquida;2017;0
+de_Borra seca;Borra seca;2017;0
+de_Vinho Composto;Vinho Composto;2017;0
+de_Pisco;Pisco;2017;0
+de_Vinho orgânico;Vinho orgânico;2017;0
+de_Espumante orgânico;Espumante orgânico;2017;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2017;0
+de_Vinho acidificado ;Vinho acidificado ;2017;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2017;0
+de_Outros derivados;Outros derivados;2017;0
+VINHO DE MESA;VINHO DE MESA;2018;218375636
+vm_Tinto;Tinto;2018;188270142
+vm_Branco;Branco;2018;29229970
+vm_Rosado;Rosado;2018;875524
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);2018;38707220
+vv_Tinto;Tinto;2018;19118254
+vv_Branco;Branco;2018;18297257
+vv_Rosado;Rosado;2018;1291709
+SUCO;SUCO;2018;65467906
+su_Suco de uva simples;Suco de uva integral;2018;34367996
+su_Suco concentrado;Suco de uva concentrado;2018;31099910
+su_Suco de uva adoçado;Suco de uva adoçado;2018;0
+su_Suco de uva orgânico;Suco de uva orgânico;2018;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;2018;0
+DERIVADOS;DERIVADOS;2018;95202101
+de_Espumante;Espumante;2018;68500
+de_Espumante moscatel;Espumante moscatel;2018;326200
+de_Base espumante;Base espumante;2018;0
+de_Base espumante moscatel;Base espumante moscatel;2018;1320650
+de_Base Champenoise champanha;Base Champenoise champanha;2018;228518
+de_Base Charmat champanha;Base Charmat champanha;2018;1746540
+de_Bebida de uva;Bebida de uva;2018;0
+de_Polpa de uva;Polpa de uva;2018;2112683
+de_Mosto simples;Mosto simples;2018;88910980
+de_Mosto concentrado;Mosto concentrado;2018;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;2018;0
+de_Mosto dessulfitado;Mosto dessulfitado;2018;0
+de_Mistelas;Mistelas;2018;2000
+de_Néctar de uva;Néctar de uva;2018;0
+de_Licorosos;Licorosos;2018;0
+de_Compostos;Compostos;2018;0
+de_Jeropiga;Jeropiga;2018;0
+de_Filtrado;Filtrado;2018;0
+de_Frisante;Frisante;2018;0
+de_Vinho leve;Vinho leve;2018;8000
+de_Vinho licoroso;Vinho licoroso;2018;124303
+de_Brandy;Brandy;2018;0
+de_Destilado;Destilado;2018;680
+de_Bagaceira;Bagaceira;2018;2100
+de_Licor de bagaceira;Licor de bagaceira;2018;0
+de_Vinagre;Vinagre;2018;25367
+de_Borra líquida;Borra líquida;2018;255100
+de_Borra seca;Borra seca;2018;70480
+de_Vinho Composto;Vinho Composto;2018;0
+de_Pisco;Pisco;2018;0
+de_Vinho orgânico;Vinho orgânico;2018;0
+de_Espumante orgânico;Espumante orgânico;2018;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2018;0
+de_Vinho acidificado ;Vinho acidificado ;2018;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2018;0
+de_Outros derivados;Outros derivados;2018;0
+VINHO DE MESA;VINHO DE MESA;2019;144629737
+vm_Tinto;Tinto;2019;121045115
+vm_Branco;Branco;2019;22032828
+vm_Rosado;Rosado;2019;1551794
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);2019;37615422
+vv_Tinto;Tinto;2019;17389377
+vv_Branco;Branco;2019;18193055
+vv_Rosado;Rosado;2019;2032990
+SUCO;SUCO;2019;77805352
+su_Suco de uva simples;Suco de uva integral;2019;50239767
+su_Suco concentrado;Suco de uva concentrado;2019;26861009
+su_Suco de uva adoçado;Suco de uva adoçado;2019;120320
+su_Suco de uva orgânico;Suco de uva orgânico;2019;0
+su_Suco de uva reconstituído;Suco de uva reconstituído;2019;584256
+DERIVADOS;DERIVADOS;2019;142888747
+de_Espumante;Espumante;2019;52176
+de_Espumante moscatel;Espumante moscatel;2019;515800
+de_Base espumante;Base espumante;2019;0
+de_Base espumante moscatel;Base espumante moscatel;2019;1962443
+de_Base Champenoise champanha;Base Champenoise champanha;2019;274903
+de_Base Charmat champanha;Base Charmat champanha;2019;1188095
+de_Bebida de uva;Bebida de uva;2019;0
+de_Polpa de uva;Polpa de uva;2019;1480269
+de_Mosto simples;Mosto simples;2019;135614344
+de_Mosto concentrado;Mosto concentrado;2019;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;2019;645816
+de_Mosto dessulfitado;Mosto dessulfitado;2019;1000
+de_Mistelas;Mistelas;2019;3000
+de_Néctar de uva;Néctar de uva;2019;32519
+de_Licorosos;Licorosos;2019;0
+de_Compostos;Compostos;2019;0
+de_Jeropiga;Jeropiga;2019;0
+de_Filtrado;Filtrado;2019;0
+de_Frisante;Frisante;2019;0
+de_Vinho leve;Vinho leve;2019;0
+de_Vinho licoroso;Vinho licoroso;2019;99485
+de_Brandy;Brandy;2019;0
+de_Destilado;Destilado;2019;0
+de_Bagaceira;Bagaceira;2019;10495
+de_Licor de bagaceira;Licor de bagaceira;2019;1507
+de_Vinagre;Vinagre;2019;76096
+de_Borra líquida;Borra líquida;2019;901431
+de_Borra seca;Borra seca;2019;25996
+de_Vinho Composto;Vinho Composto;2019;0
+de_Pisco;Pisco;2019;3372
+de_Vinho orgânico;Vinho orgânico;2019;0
+de_Espumante orgânico;Espumante orgânico;2019;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2019;0
+de_Vinho acidificado ;Vinho acidificado ;2019;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2019;0
+de_Outros derivados;Outros derivados;2019;0
+VINHO DE MESA;VINHO DE MESA;2020;124200414
+vm_Tinto;Tinto;2020;103916391
+vm_Branco;Branco;2020;19568734
+vm_Rosado;Rosado;2020;715289
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);2020;32516686
+vv_Tinto;Tinto;2020;15451883
+vv_Branco;Branco;2020;15487915
+vv_Rosado;Rosado;2020;1576888
+SUCO;SUCO;2020;69261287
+su_Suco de uva simples;Suco de uva integral;2020;40718523
+su_Suco concentrado;Suco de uva concentrado;2020;27963865
+su_Suco de uva adoçado;Suco de uva adoçado;2020;107289
+su_Suco de uva orgânico;Suco de uva orgânico;2020;471610
+su_Suco de uva reconstituído;Suco de uva reconstituído;2020;0
+DERIVADOS;DERIVADOS;2020;92533804
+de_Espumante;Espumante;2020;32399
+de_Espumante moscatel;Espumante moscatel;2020;689139
+de_Base espumante;Base espumante;2020;0
+de_Base espumante moscatel;Base espumante moscatel;2020;3006705
+de_Base Champenoise champanha;Base Champenoise champanha;2020;200777
+de_Base Charmat champanha;Base Charmat champanha;2020;2487939
+de_Bebida de uva;Bebida de uva;2020;0
+de_Polpa de uva;Polpa de uva;2020;1803472
+de_Mosto simples;Mosto simples;2020;80355474
+de_Mosto concentrado;Mosto concentrado;2020;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;2020;3078256
+de_Mosto dessulfitado;Mosto dessulfitado;2020;5000
+de_Mistelas;Mistelas;2020;0
+de_Néctar de uva;Néctar de uva;2020;46000
+de_Licorosos;Licorosos;2020;0
+de_Compostos;Compostos;2020;0
+de_Jeropiga;Jeropiga;2020;2000
+de_Filtrado;Filtrado;2020;0
+de_Frisante;Frisante;2020;0
+de_Vinho leve;Vinho leve;2020;0
+de_Vinho licoroso;Vinho licoroso;2020;48678
+de_Brandy;Brandy;2020;0
+de_Destilado;Destilado;2020;0
+de_Bagaceira;Bagaceira;2020;0
+de_Licor de bagaceira;Licor de bagaceira;2020;5800
+de_Vinagre;Vinagre;2020;10000
+de_Borra líquida;Borra líquida;2020;509378
+de_Borra seca;Borra seca;2020;167587
+de_Vinho Composto;Vinho Composto;2020;0
+de_Pisco;Pisco;2020;1000
+de_Vinho orgânico;Vinho orgânico;2020;18700
+de_Espumante orgânico;Espumante orgânico;2020;0
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2020;500
+de_Vinho acidificado ;Vinho acidificado ;2020;65000
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2020;0
+de_Outros derivados;Outros derivados;2020;0
+VINHO DE MESA;VINHO DE MESA;2021;173899995
+vm_Tinto;Tinto;2021;146075996
+vm_Branco;Branco;2021;26432799
+vm_Rosado;Rosado;2021;1391200
+VINHO FINO DE MESA (VINÍFERA);VINHO FINO DE MESA (VINÍFERA);2021;43474998
+vv_Tinto;Tinto;2021;20433249
+vv_Branco;Branco;2021;20867999
+vv_Rosado;Rosado;2021;2173750
+SUCO;SUCO;2021;100932264
+su_Suco de uva simples;Suco de uva integral;2021;68038479
+su_Suco concentrado;Suco de uva concentrado;2021;32131218
+su_Suco de uva adoçado;Suco de uva adoçado;2021;40450
+su_Suco de uva orgânico;Suco de uva orgânico;2021;722117
+su_Suco de uva reconstituído;Suco de uva reconstituído;2021;0
+DERIVADOS;DERIVADOS;2021;169031493
+de_Espumante;Espumante;2021;70091
+de_Espumante moscatel;Espumante moscatel;2021;11950
+de_Base espumante;Base espumante;2021;5475049
+de_Base espumante moscatel;Base espumante moscatel;2021;5549471
+de_Base Champenoise champanha;Base Champenoise champanha;2021;0
+de_Base Charmat champanha;Base Charmat champanha;2021;0
+de_Bebida de uva;Bebida de uva;2021;2000
+de_Polpa de uva;Polpa de uva;2021;1180578
+de_Mosto simples;Mosto simples;2021;153579926
+de_Mosto concentrado;Mosto concentrado;2021;0
+de_Mosto de uva com bagaço;Mosto de uva com bagaço;2021;618764
+de_Mosto dessulfitado;Mosto dessulfitado;2021;1532000
+de_Mistelas;Mistelas;2021;2500
+de_Néctar de uva;Néctar de uva;2021;18187
+de_Licorosos;Licorosos;2021;0
+de_Compostos;Compostos;2021;0
+de_Jeropiga;Jeropiga;2021;3540
+de_Filtrado;Filtrado;2021;0
+de_Frisante;Frisante;2021;1390
+de_Vinho leve;Vinho leve;2021;0
+de_Vinho licoroso;Vinho licoroso;2021;30000
+de_Brandy;Brandy;2021;120
+de_Destilado;Destilado;2021;0
+de_Bagaceira;Bagaceira;2021;12060
+de_Licor de bagaceira;Licor de bagaceira;2021;0
+de_Vinagre;Vinagre;2021;7500
+de_Borra líquida;Borra líquida;2021;116450
+de_Borra seca;Borra seca;2021;16789
+de_Vinho Composto;Vinho Composto;2021;160000
+de_Pisco;Pisco;2021;0
+de_Vinho orgânico;Vinho orgânico;2021;93884
+de_Espumante orgânico;Espumante orgânico;2021;2412
+de_Destilado alcoólico simples de bagaceira ;Destilado alcoólico simples de bagaceira ;2021;3000
+de_Vinho acidificado ;Vinho acidificado ;2021;0
+de_Mosto parcialmente fermentado ;Mosto parcialmente fermentado ;2021;543510
+de_Outros derivados;Outros derivados;2021;322
